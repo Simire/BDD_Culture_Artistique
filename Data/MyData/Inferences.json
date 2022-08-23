@@ -1,0 +1,24 @@
+{
+  "inferences": [
+    "1P_Custom_Discovery_Streamers",
+    "3P_Custom_Sonos_UX Audience",
+    "3P_Income above 100K_FR",
+    "3P_Income above 50K_FR",
+    "3P_Income above 75K_FR",
+    "3P_Personal Investors_FR",
+    "3P_Women's Apparel_FR",
+    "Cookie Audience NOT Matched to PPIDs",
+    "Fitness",
+    "Love & Dating",
+    "NerdwalletBestOf_Nerdwallet_Q4Q12021_Exposed",
+    "Partying",
+    "Podcasts",
+    "Recaptcha_scores_filtered",
+    "SierraNevadaEvergreen_US_Q42020_Exposed ",
+    "Sports & Recreation",
+    "podcast-audience-segmentation-rules-engagement-daypart-evening",
+    "podcast-audience-segmentation-rules-engagement-device-desktop",
+    "podcast-audience-segmentation-rules-format-length-long",
+    "podcast-audience-segmentation-rules-format-length-short"
+  ]
+}

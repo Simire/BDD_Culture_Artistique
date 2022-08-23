@@ -1,0 +1,4398 @@
+{
+  "tracks": [
+    {
+      "artist": "Ibeyi",
+      "album": "Ash",
+      "track": "Me Voy",
+      "uri": "spotify:track:14kYrMqdlj4xA02NZSrsMl"
+    },
+    {
+      "artist": "Ashh",
+      "album": "CRUISE",
+      "track": "Motel",
+      "uri": "spotify:track:0PT8bMUkb6Jnp449XpT9Sb"
+    },
+    {
+      "artist": "The Underachievers",
+      "album": "Evermore - The Art of Duality",
+      "track": "Allusions",
+      "uri": "spotify:track:6ja4TRka45EngC546Fh4a0"
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "album": "Rumours",
+      "track": "The Chain - 2004 Remaster",
+      "uri": "spotify:track:7Dm3dV3WPNdTgxoNY7YFnc"
+    },
+    {
+      "artist": "Zola",
+      "album": "Cicatrices",
+      "track": "Fuckboi",
+      "uri": "spotify:track:35nTy3pmeNhvcfLRx15iLH"
+    },
+    {
+      "artist": "Guizmo",
+      "album": "Amicalement Vôtre",
+      "track": "30 euros",
+      "uri": "spotify:track:2SDtyxvylPsho9gex9BuDc"
+    },
+    {
+      "artist": "Vampire Weekend",
+      "album": "Father of the Bride",
+      "track": "Harmony Hall",
+      "uri": "spotify:track:39exKIvycQDgs4T6uXdyu0"
+    },
+    {
+      "artist": "Jok'air",
+      "album": "Jok'Rambo",
+      "track": "Maintenant",
+      "uri": "spotify:track:3WS6BWELlJdI2RATMaijmu"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "LUST.",
+      "uri": "spotify:track:5BniTxgyzl4kPkXdiAAiEV"
+    },
+    {
+      "artist": "Injury Reserve",
+      "album": "Injury Reserve",
+      "track": "Jawbreaker (Feat. Rico Nasty & Pro Teens)",
+      "uri": "spotify:track:3zbYsEDFISyrjdENY7G2tR"
+    },
+    {
+      "artist": "Jacob Banks",
+      "album": "The Boy Who Cried Freedom",
+      "track": "Mercy",
+      "uri": "spotify:track:3htYhAhYgViTNrmHr5i864"
+    },
+    {
+      "artist": "Big Thief",
+      "album": "U.F.O.F.",
+      "track": "Strange",
+      "uri": "spotify:track:2ZXrdQyjH79xTB001IrpNx"
+    },
+    {
+      "artist": "Orelsan",
+      "album": "La fête est finie",
+      "track": "Notes pour trop tard (feat. Ibeyi)",
+      "uri": "spotify:track:3SgnYOV9ONL0bIHaAcOYE1"
+    },
+    {
+      "artist": "J. Cole",
+      "album": "KOD",
+      "track": "1985 - Intro to “The Fall Off”",
+      "uri": "spotify:track:7EulRO07ZgchxqKUHb8Pvc"
+    },
+    {
+      "artist": "Jimmy Cliff",
+      "album": "Best Of / 20th Century Masters",
+      "track": "Many Rivers To Cross",
+      "uri": "spotify:track:0FokMXctAEFRczLcj8topE"
+    },
+    {
+      "artist": "FKA twigs",
+      "album": "CAPRISONGS",
+      "track": "jealousy (feat. rema)",
+      "uri": "spotify:track:66fCNfMdIKsXOnSphorrwg"
+    },
+    {
+      "artist": "JAY-Z",
+      "album": "Magna Carta... Holy Grail",
+      "track": "Holy Grail",
+      "uri": "spotify:track:1q9bLSeIlGf2xBvbOkp2Wr"
+    },
+    {
+      "artist": "Black Honey",
+      "album": "Dig",
+      "track": "Dig",
+      "uri": "spotify:track:0kC7ue5PIaNQ2uOT3MaJzG"
+    },
+    {
+      "artist": "Alivor",
+      "album": "VOR LIFE",
+      "track": "Capuché",
+      "uri": "spotify:track:5ZFFJmHweKiEXv44tVCkLA"
+    },
+    {
+      "artist": "Moriarty",
+      "album": "Gee Whiz But This Is a Lonesome Town",
+      "track": "Jimmy",
+      "uri": "spotify:track:6Zw0NBdfr1VlVJjDRFwUe1"
+    },
+    {
+      "artist": "Lefa",
+      "album": "3 du mat",
+      "track": "Paradise (feat. Lomepal)",
+      "uri": "spotify:track:00YUNap0MFncqzzuvwzUlS"
+    },
+    {
+      "artist": "Ikue Asazaki",
+      "album": "AMAMI",
+      "track": "OBOKURI",
+      "uri": "spotify:track:4tMhwWkSXB4fzgqoBhC5k0"
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "album": "Love & Hate",
+      "track": "Cold Little Heart",
+      "uri": "spotify:track:5MqtUWIKlww4ZMJartTD3q"
+    },
+    {
+      "artist": "Travis Scott",
+      "album": "ASTROWORLD",
+      "track": "SKELETONS",
+      "uri": "spotify:track:6NMtzpDQBTOfJwMzgMX0zl"
+    },
+    {
+      "artist": "Nekfeu",
+      "album": "Les étoiles vagabondes : expansion",
+      "track": "Le bruit qui court",
+      "uri": "spotify:track:5w3r6vFKgkji8kpWgW47og"
+    },
+    {
+      "artist": "Supertramp",
+      "album": "Crime Of The Century",
+      "track": "School",
+      "uri": "spotify:track:6fnachl7fIn5dqIjakfJ57"
+    },
+    {
+      "artist": "Jorja Smith",
+      "album": "Blue Lights",
+      "track": "Blue Lights",
+      "uri": "spotify:track:0gIHl0ax9NELdRyV1ChUUb"
+    },
+    {
+      "artist": "Karen O",
+      "album": "Lux Prima",
+      "track": "Redeemer",
+      "uri": "spotify:track:0qYpEe3vNDcBmUGHtl3NOf"
+    },
+    {
+      "artist": "Josman",
+      "album": "J.O.$",
+      "track": "XS",
+      "uri": "spotify:track:3Bc8gFjMtqUhuF5ZQ8GiQl"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "FLIP",
+      "track": "Yeux disent",
+      "uri": "spotify:track:1uaAq8pSghvpVxlrOrgdeO"
+    },
+    {
+      "artist": "Dave",
+      "album": "PSYCHODRAMA",
+      "track": "Disaster (feat. J Hus)",
+      "uri": "spotify:track:3rqmxZNh2BRgJ3BiCPFTSG"
+    },
+    {
+      "artist": "Freeze corleone",
+      "album": "LMF",
+      "track": "Freeze Raël",
+      "uri": "spotify:track:6DPrYPPGYK218iVIZDix3i"
+    },
+    {
+      "artist": "flora cash",
+      "album": "You're Somebody Else",
+      "track": "You're Somebody Else",
+      "uri": "spotify:track:0pdKRp2sUthTPe7RLWpPqQ"
+    },
+    {
+      "artist": "Gregorio Allegri",
+      "album": "Agnus Dei Volumes 1 & 2",
+      "track": "Allegri : Miserere mei, Deus",
+      "uri": "spotify:track:3Vh1HcmPj5cyZngT4oizF2"
+    },
+    {
+      "artist": "NF",
+      "album": "The Search",
+      "track": "The Search",
+      "uri": "spotify:track:2OKo7g3KfmCt3kyLvUAL0g"
+    },
+    {
+      "artist": "Népal",
+      "album": "Adios Bahamas",
+      "track": "Sundance",
+      "uri": "spotify:track:3CBjC9bcb5MzAnP4Hu9SVL"
+    },
+    {
+      "artist": "Nekfeu",
+      "album": "Les étoiles vagabondes : expansion",
+      "track": "Premier pas",
+      "uri": "spotify:track:3Q35CdXXoyb2AxDghgadZZ"
+    },
+    {
+      "artist": "湯寶如",
+      "album": "真經典 - 湯寶如",
+      "track": "相思風雨中 - 電視劇「出位江湖」插曲",
+      "uri": "spotify:track:7j9n4lIH9B0fbnlyGjoOTn"
+    },
+    {
+      "artist": "Hollydays",
+      "album": "L'odeur des joints",
+      "track": "L'odeur des joints",
+      "uri": "spotify:track:05mpXYVYuiG47vkJugp7I4"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "IGOR",
+      "track": "NEW MAGIC WAND",
+      "uri": "spotify:track:0fv2KH6hac06J86hBUTcSf"
+    },
+    {
+      "artist": "Ibeyi",
+      "album": "Ash",
+      "track": "I Carried This for Years",
+      "uri": "spotify:track:3uPEZYXmeUgRFBywQCndKj"
+    },
+    {
+      "artist": "Halsey",
+      "album": "BADLANDS",
+      "track": "Gasoline",
+      "uri": "spotify:track:2IO7yf562c1zLzpanal1DT"
+    },
+    {
+      "artist": "Zola",
+      "album": "Cicatrices",
+      "track": "Papers (feat. Ninho)",
+      "uri": "spotify:track:3vmoC735YdyvsrF0HtbmGn"
+    },
+    {
+      "artist": "Wolfgang Amadeus Mozart",
+      "album": "Révisons nos classiques",
+      "track": "Mozart: Le nozze di Figaro, K. 492: Sinfonia",
+      "uri": "spotify:track:6xVY2e7JRBSV8hP6YDwyiX"
+    },
+    {
+      "artist": "Dave",
+      "album": "PSYCHODRAMA",
+      "track": "Environment",
+      "uri": "spotify:track:7l1P6WtVtq1zQMq6qazNA4"
+    },
+    {
+      "artist": "Khalid",
+      "album": "American Teen",
+      "track": "Let's Go",
+      "uri": "spotify:track:6AIccJIWHGK26xi34FAkwl"
+    },
+    {
+      "artist": "Guizmo",
+      "album": "Amicalement Vôtre",
+      "track": "L'Histoire d'un negro",
+      "uri": "spotify:track:0V09Mx173xmvjKwm1VEvZ4"
+    },
+    {
+      "artist": "Vampire Weekend",
+      "album": "Father of the Bride",
+      "track": "Unbearably White",
+      "uri": "spotify:track:2FjoCQaBoiEKs3FCvD0HkR"
+    },
+    {
+      "artist": "Hyphen Hyphen",
+      "album": "HH",
+      "track": "Kiss You",
+      "uri": "spotify:track:7JQewz4fqxwZ7unFUWXZn4"
+    },
+    {
+      "artist": "Le classico organisé",
+      "album": "Le classico organisé",
+      "track": "Légendaire",
+      "uri": "spotify:track:6oPyFMWpT0oDeShTjcneDK"
+    },
+    {
+      "artist": "Kali Uchis",
+      "album": "Isolation",
+      "track": "Miami (feat. BIA)",
+      "uri": "spotify:track:5oJAaPRS2EzNIc8EWIbucE"
+    },
+    {
+      "artist": "13 Block",
+      "album": "Triple S",
+      "track": "Calibre",
+      "uri": "spotify:track:0aaRijvKwGs5bVLSdh3zKb"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "DNA.",
+      "uri": "spotify:track:4cGeMgLcykDLAazHFpbZbU"
+    },
+    {
+      "artist": "Eminem",
+      "album": "Music To Be Murdered By",
+      "track": "Lock It Up (feat. Anderson .Paak)",
+      "uri": "spotify:track:1qwMkkRiD5jqLeUUjfgblh"
+    },
+    {
+      "artist": "Ibeyi",
+      "album": "Ash",
+      "track": "When Will I Learn",
+      "uri": "spotify:track:30fuX4xUqSRFh9JjTdYOmt"
+    },
+    {
+      "artist": "Alivor",
+      "album": "VOR LIFE",
+      "track": "Bad",
+      "uri": "spotify:track:3b0xb5wMRb0yQ1t4hzHg7a"
+    },
+    {
+      "artist": "Ibeyi",
+      "album": "Ash",
+      "track": "Valé",
+      "uri": "spotify:track:2Y0iIso02b6yD8nUezW7U4"
+    },
+    {
+      "artist": "XXXTENTACION",
+      "album": "17",
+      "track": "Everybody Dies In Their Nightmares",
+      "uri": "spotify:track:3GVkPk8mqxz0itaAriG1L7"
+    },
+    {
+      "artist": "FKA twigs",
+      "album": "MAGDALENE",
+      "track": "mary magdalene",
+      "uri": "spotify:track:7Ej5VWvFlzGRvstFG3i6Yc"
+    },
+    {
+      "artist": "Médine",
+      "album": "Prose élite",
+      "track": "Le khan",
+      "uri": "spotify:track:3d8hv3G9KPDVXPa6dGfBKx"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "ODSL",
+      "track": "R2D2 (Superpoze)",
+      "uri": "spotify:track:2YCMLdeX0lzv8IsMu8Gf38"
+    },
+    {
+      "artist": "Cesária Evora",
+      "album": "Great Expectations",
+      "track": "Besame Mucho - Bonus Track- Great Expectations OST",
+      "uri": "spotify:track:28hJLJrfLEa7vCvlqGGJXF"
+    },
+    {
+      "artist": "Jessie Reyez",
+      "album": "Kiddo",
+      "track": "FIGURES",
+      "uri": "spotify:track:3U3J5v3rkx89WnFEQvAJD5"
+    },
+    {
+      "artist": "Karen O",
+      "album": "Lux Prima",
+      "track": "Woman",
+      "uri": "spotify:track:570DNdCjckkG4MAQfO0Aab"
+    },
+    {
+      "artist": "Koffee",
+      "album": "Rapture EP",
+      "track": "Toast",
+      "uri": "spotify:track:7sd72KZS8D59g5NmhxyHpJ"
+    },
+    {
+      "artist": "Jok'air",
+      "album": "Jok'Rambo",
+      "track": "Daddy (feat. Lili Poe & Madame Monsieur)",
+      "uri": "spotify:track:4mxCRUrXPxTWBFS3e2pOHB"
+    },
+    {
+      "artist": "Wendy Rene",
+      "album": "Light In The Attic 10 Year Anniversary: Wendy Rene \"After Laughter (Comes Tears)\"",
+      "track": "After Laughter (Comes Tears) - Wendy Rene",
+      "uri": "spotify:track:5LEzecDQwrMstEqIeqfhc2"
+    },
+    {
+      "artist": "Noel Gallagher's High Flying Birds",
+      "album": "Who Built The Moon?",
+      "track": "She Taught Me How to Fly",
+      "uri": "spotify:track:5XzU0N3yMjoqg2Yq2DuWDT"
+    },
+    {
+      "artist": "Dosseh",
+      "album": "Habitué",
+      "track": "Habitué",
+      "uri": "spotify:track:5N2IdMvsijo5D0Jl3iz6yu"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Negro Swan",
+      "track": "Chewing Gum",
+      "uri": "spotify:track:3jxExv27cf3OSt0BXtAR6Z"
+    },
+    {
+      "artist": "7 Jaws",
+      "album": "RAGE",
+      "track": "Accro",
+      "uri": "spotify:track:5AR7mLUQZT9JBChQ6hGDxQ"
+    },
+    {
+      "artist": "Khalid",
+      "album": "Free Spirit",
+      "track": "Saturday Nights",
+      "uri": "spotify:track:1fHRzxbts9A8J1ergDe7Kz"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "track": "Freddie Freeloader - Studio Sequence 2",
+      "uri": "spotify:track:3FdeddUjZryl1JW2DbzR0x"
+    },
+    {
+      "artist": "YG",
+      "album": "4REAL 4REAL",
+      "track": "Bottle Service",
+      "uri": "spotify:track:0MRhKGA87dwWtoit9pQ4xY"
+    },
+    {
+      "artist": "Pomme",
+      "album": "À peu près",
+      "track": "Ceux qui rêvent",
+      "uri": "spotify:track:4D26H57LZ5DSuO9vpZnnbv"
+    },
+    {
+      "artist": "Janis Joplin",
+      "album": "Janis Joplin: The Woodstock Experience",
+      "track": "Kozmic Blues",
+      "uri": "spotify:track:1cTrWlx7OSaJf3pLpiYRRR"
+    },
+    {
+      "artist": "James Blake",
+      "album": "If The Car Beside You Moves Ahead",
+      "track": "If The Car Beside You Moves Ahead",
+      "uri": "spotify:track:3YKAaNsQ9i5oiSPeDw5PxV"
+    },
+    {
+      "artist": "Charles Bradley",
+      "album": "No Time For Dreaming",
+      "track": "How Long",
+      "uri": "spotify:track:177k3bIAhaiLfJxx2Vi6mI"
+    },
+    {
+      "artist": "Zola",
+      "album": "Cicatrices",
+      "track": "Mojo",
+      "uri": "spotify:track:3hsDKoxHa6Ra9Z68UoZPAr"
+    },
+    {
+      "artist": "Injury Reserve",
+      "album": "Injury Reserve",
+      "track": "QWERTY Interlude",
+      "uri": "spotify:track:0IPYNVMMmwanmM0Kn5FgR9"
+    },
+    {
+      "artist": "James Taylor",
+      "album": "Sweet Baby James",
+      "track": "Fire and Rain",
+      "uri": "spotify:track:3LcYYV9ozePfgYYmXv0P3r"
+    },
+    {
+      "artist": "Ibeyi",
+      "album": "Ash",
+      "track": "Away Away",
+      "uri": "spotify:track:2B8VEO8a9zIFs0ILrKw4uz"
+    },
+    {
+      "artist": "S+C+A+R+R",
+      "album": "I Lost My Body (Original Motion Picture Soundtrack)",
+      "track": "You're the One",
+      "uri": "spotify:track:1BMLBURMMwAi4FBesaKVbG"
+    },
+    {
+      "artist": "Jok'air",
+      "album": "Jok'Rambo",
+      "track": "Davidson",
+      "uri": "spotify:track:1al6i28BFjP4M38aVE1SSt"
+    },
+    {
+      "artist": "Alivor",
+      "album": "Bad",
+      "track": "Bad",
+      "uri": "spotify:track:0JXTaqA8wHOZ2t3qbPP7Mh"
+    },
+    {
+      "artist": "Khalid",
+      "album": "Free Spirit",
+      "track": "Outta My Head (with John Mayer)",
+      "uri": "spotify:track:09oZ9eXQ2fo6YDrPzJqAoP"
+    },
+    {
+      "artist": "Bibi Bourelly",
+      "album": "Free The Real",
+      "track": "Ego",
+      "uri": "spotify:track:7JhQmZtt3JAbNn3g0ac7XA"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "YAH.",
+      "uri": "spotify:track:22uyC54d6XAPRTlc6IchaP"
+    },
+    {
+      "artist": "Vald",
+      "album": "NQNT33",
+      "track": "Rechute",
+      "uri": "spotify:track:5uRPvrM1xZwy4B0TSHTh3s"
+    },
+    {
+      "artist": "Karen O",
+      "album": "Lux Prima",
+      "track": "Leopard's Tongue",
+      "uri": "spotify:track:1aUUoNSOwIOT7pCWe5dNEb"
+    },
+    {
+      "artist": "S.Pri Noir",
+      "album": "Masque blanc",
+      "track": "Nymeria",
+      "uri": "spotify:track:4GPe3ainsVesg0ZYubtx1s"
+    },
+    {
+      "artist": "Karen O",
+      "album": "YO! MY SAINT (Radio Version)",
+      "track": "YO! MY SAINT - Radio Version",
+      "uri": "spotify:track:2We0UNxKWgx4by5BVxy6P5"
+    },
+    {
+      "artist": "Ashh",
+      "album": "CRUISE",
+      "track": "Motel",
+      "uri": "spotify:track:5gJTFGsEWpjma28XdJbkWP"
+    },
+    {
+      "artist": "Fixpen Sill",
+      "album": "Le piège",
+      "track": "Le piège",
+      "uri": "spotify:track:0Xyzcsn0zuxvtPR7RC8V43"
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "album": "Love & Hate",
+      "track": "Black Man In A White World",
+      "uri": "spotify:track:6halTMaQ0c9rUw2uT2F4s1"
+    },
+    {
+      "artist": "Médine",
+      "album": "Prose élite",
+      "track": "Grand Paris",
+      "uri": "spotify:track:1jCnQf9BhMMnIvq8ETzFry"
+    },
+    {
+      "artist": "Phil Collins",
+      "album": "Face Value (Deluxe Editon)",
+      "track": "In The Air Tonight - 2015 Remastered",
+      "uri": "spotify:track:18AXbzPzBS8Y3AkgSxzJPb"
+    },
+    {
+      "artist": "Jazzy Bazz",
+      "album": "Memoria",
+      "track": "Dark City",
+      "uri": "spotify:track:61ZtfldLZCE3YqrQwSIshy"
+    },
+    {
+      "artist": "Vampire Weekend",
+      "album": "Father of the Bride",
+      "track": "Big Blue",
+      "uri": "spotify:track:3VORkvig6GJheAu4x3I3oC"
+    },
+    {
+      "artist": "Ibeyi",
+      "album": "Ash",
+      "track": "Ash",
+      "uri": "spotify:track:4XBYpFvcxrUh4yDoqRU7Lg"
+    },
+    {
+      "artist": "YG",
+      "album": "4REAL 4REAL",
+      "track": "My Last Words - Nipsey Tribute",
+      "uri": "spotify:track:4qavlid0RdUAzQNiJlJxRP"
+    },
+    {
+      "artist": "Vampire Weekend",
+      "album": "Father of the Bride",
+      "track": "Sunflower (feat. Steve Lacy)",
+      "uri": "spotify:track:53KFMdxzi8IJDewiql1Qo3"
+    },
+    {
+      "artist": "Elijah Blake",
+      "album": "Audiology",
+      "track": "Black and Blue",
+      "uri": "spotify:track:6j6MyGkvLmTFmswGGtyH1g"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "ODSL",
+      "track": "R2D2",
+      "uri": "spotify:track:4J3s7Fqau8iQD0gltnsFvM"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "track": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
+      "uri": "spotify:track:2x91iJc0UkFcjRMEZ2CoWB"
+    },
+    {
+      "artist": "Guizmo",
+      "album": "Amicalement Vôtre",
+      "track": "J'sais qu't'as mal !",
+      "uri": "spotify:track:6iSEjpJHccA6WSCyJ8RdcS"
+    },
+    {
+      "artist": "Ninho",
+      "album": "Binks to Binks 6",
+      "track": "Binks to Binks 6",
+      "uri": "spotify:track:4zrEmFA3R3JngfWR70zu3w"
+    },
+    {
+      "artist": "Zola",
+      "album": "Survie",
+      "track": "Papillon",
+      "uri": "spotify:track:7874pG5QpsM8VtX9HaRgia"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "FLIP",
+      "track": "Danse",
+      "uri": "spotify:track:11b2cifcrLZk3rVC0UQ8fi"
+    },
+    {
+      "artist": "YEИDRY",
+      "album": "Nena",
+      "track": "Nena",
+      "uri": "spotify:track:4fWY8QZsAhEF0WeI20QhMj"
+    },
+    {
+      "artist": "Travis Scott",
+      "album": "ASTROWORLD",
+      "track": "5% TINT",
+      "uri": "spotify:track:11kDth1aKUEUMq9r1pqyds"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "Section.80",
+      "track": "A.D.H.D",
+      "uri": "spotify:track:2MYl0er3UZ1RlKwRb5LODh"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "FLIP",
+      "track": "Skit Skate",
+      "uri": "spotify:track:4MN0Lkj7K0d8Y2AydneajL"
+    },
+    {
+      "artist": "Khalid",
+      "album": "Free Spirit",
+      "track": "Better",
+      "uri": "spotify:track:339Y993TrFyWyO438be0RY"
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "album": "Love & Hate",
+      "track": "Father's Child",
+      "uri": "spotify:track:3o4HZKLSH6kPmrkTUWCWJL"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "FEEL.",
+      "uri": "spotify:track:7Lb4aeK6E6QjNBIxxHQGek"
+    },
+    {
+      "artist": "Big Thief",
+      "album": "U.F.O.F.",
+      "track": "Contact",
+      "uri": "spotify:track:4ByIVtEsADLpBFcI8oY4hC"
+    },
+    {
+      "artist": "Deafheaven",
+      "album": "Ordinary Corrupt Human Love",
+      "track": "Honeycomb",
+      "uri": "spotify:track:0G0NKx220sZpjXC4LSoCkA"
+    },
+    {
+      "artist": "Hamza",
+      "album": "Paradise",
+      "track": "50x",
+      "uri": "spotify:track:50FHmxsLg0xFT53D9DoZLm"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Negro Swan",
+      "track": "Jewelry",
+      "uri": "spotify:track:3boUSTv7CwQRiWuq8ZPjYi"
+    },
+    {
+      "artist": "Superpoze",
+      "album": "Opening (Deluxe)",
+      "track": "Time Travel (Jean Tonique Vision)",
+      "uri": "spotify:track:7Mj1tAqeRHPiV1kARh0Y54"
+    },
+    {
+      "artist": "Georges Brassens",
+      "album": "Georges Brassens N°13",
+      "track": "Les passantes",
+      "uri": "spotify:track:6k8DeSqTVJWfwqobpIHxtd"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "ELEMENT.",
+      "uri": "spotify:track:6rZssCJPEdQnyeEdNLKsr8"
+    },
+    {
+      "artist": "Tierra Whack",
+      "album": "Whack World",
+      "track": "Flea Market",
+      "uri": "spotify:track:5Gnx5bNAglWcclJkuJnrys"
+    },
+    {
+      "artist": "Jazzy Bazz",
+      "album": "Nuit",
+      "track": "Insomnie",
+      "uri": "spotify:track:3O44c9uVl2FQULREchDQy8"
+    },
+    {
+      "artist": "SONBEST",
+      "album": "Arcane",
+      "track": "Béni ou maudit",
+      "uri": "spotify:track:0dRyXHJdHAWR5TwPhBAifv"
+    },
+    {
+      "artist": "Cigarettes After Sex",
+      "album": "EP I.",
+      "track": "Nothing's Gonna Hurt You Baby",
+      "uri": "spotify:track:1W7Eajq8Hlqiy39QnuKjvD"
+    },
+    {
+      "artist": "Rhye",
+      "album": "Spirit",
+      "track": "Needed",
+      "uri": "spotify:track:5MHHcFRlO9LUP153GFHOk6"
+    },
+    {
+      "artist": "Deafheaven",
+      "album": "Ordinary Corrupt Human Love",
+      "track": "Near",
+      "uri": "spotify:track:2nznScQCuL4r9OKMr4A7qc"
+    },
+    {
+      "artist": "Kalash",
+      "album": "Mwaka Moon",
+      "track": "Mwaka Moon",
+      "uri": "spotify:track:1vVZLmZq8gN8pPCEBLjPvD"
+    },
+    {
+      "artist": "Khalid",
+      "album": "Free Spirit",
+      "track": "Free Spirit",
+      "uri": "spotify:track:2kAIpGWnlFLQh48iut6Zzq"
+    },
+    {
+      "artist": "Dave",
+      "album": "PSYCHODRAMA",
+      "track": "Location (feat. Burna Boy)",
+      "uri": "spotify:track:3z4CGd63tpUn9a6oQSG0CI"
+    },
+    {
+      "artist": "Zola",
+      "album": "Cicatrices",
+      "track": "Zolabeille",
+      "uri": "spotify:track:3D64SSAn9zhGrqR3kW7Pmq"
+    },
+    {
+      "artist": "Guizmo",
+      "album": "Amicalement Vôtre",
+      "track": "Vagabond",
+      "uri": "spotify:track:1ZnChSASsk8aQvZTiM4euS"
+    },
+    {
+      "artist": "Green Montana",
+      "album": "ALASKA",
+      "track": "REVES MAGIQUES",
+      "uri": "spotify:track:5xBeVt2KhvZg2pTPrPXuQG"
+    },
+    {
+      "artist": "Eminem",
+      "album": "Kamikaze",
+      "track": "The Ringer",
+      "uri": "spotify:track:2jt2WxXMCD4zjACthkJQVE"
+    },
+    {
+      "artist": "SonReal",
+      "album": "No More",
+      "track": "No More",
+      "uri": "spotify:track:3WuW6Gyt75xhch9RwQuitO"
+    },
+    {
+      "artist": "Alivor",
+      "album": "VOR LIFE",
+      "track": "Vents et marées",
+      "uri": "spotify:track:0Lw0PtBfhXaPqjQyRXMolh"
+    },
+    {
+      "artist": "Jaden",
+      "album": "SYRE: THE ELECTRIC ALBUM",
+      "track": "B - Electric",
+      "uri": "spotify:track:4stH39loeKJFBMBUKVvBrk"
+    },
+    {
+      "artist": "Alivor",
+      "album": "VOR LIFE",
+      "track": "Dans la nuit",
+      "uri": "spotify:track:2Iaqm2jA0gMgyLVGqCtR3Y"
+    },
+    {
+      "artist": "Charles Bradley",
+      "album": "No Time For Dreaming",
+      "track": "Heart of Gold",
+      "uri": "spotify:track:2RE8rBl5QfF1NA5aLc3dvA"
+    },
+    {
+      "artist": "Columbine",
+      "album": "Adieu bientôt",
+      "track": "Adieu bientôt",
+      "uri": "spotify:track:0nauWQtOaFKUtpLUMPyxmG"
+    },
+    {
+      "artist": "Luidji",
+      "album": "Pour deux âmes solitaires (Part. 1)",
+      "track": "Pour deux âmes solitaires (Part. 1)",
+      "uri": "spotify:track:5jbLE4fT2AkJEkgpFsrXuR"
+    },
+    {
+      "artist": "Hyphen Hyphen",
+      "album": "HH",
+      "track": "The Way to Stay",
+      "uri": "spotify:track:7gHJuU8AewEzWtJV6BuTHM"
+    },
+    {
+      "artist": "Royal Deluxe",
+      "album": "Royal Deluxe",
+      "track": "Make a Little Money",
+      "uri": "spotify:track:4Rk5RdpWmQb4ZTpPKNATin"
+    },
+    {
+      "artist": "Nekfeu",
+      "album": "don dada mixtape vol 1",
+      "track": "malevil",
+      "uri": "spotify:track:4Yj4iJa1z4WUjas055JARZ"
+    },
+    {
+      "artist": "Eminem",
+      "album": "Music To Be Murdered By",
+      "track": "Unaccommodating (feat. Young M.A)",
+      "uri": "spotify:track:0q2vG0UVuy6ajjcpkQHdZM"
+    },
+    {
+      "artist": "Big Thief",
+      "album": "U.F.O.F.",
+      "track": "Cattails",
+      "uri": "spotify:track:623gFZ4VYa2EDu1D1sWFm0"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "track": "Flamenco Sketches - Studio Sequence 2",
+      "uri": "spotify:track:1p9HpuOBxEWQkD7UVJpj0b"
+    },
+    {
+      "artist": "Justice",
+      "album": "Woman Worldwide",
+      "track": "Safe and Sound (WWW)",
+      "uri": "spotify:track:2OPmeyf31LlcIpYcJ4aegt"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "ODSL",
+      "track": "Achille",
+      "uri": "spotify:track:7bsuDXP8mzVLmgQPqZTW1A"
+    },
+    {
+      "artist": "Hamza",
+      "album": "140 BPM",
+      "track": "Netflix",
+      "uri": "spotify:track:5QSpdA6NP7QosI8apR0vm6"
+    },
+    {
+      "artist": "Orelsan",
+      "album": "La fête est finie",
+      "track": "Zone (feat. Nekfeu & Dizzee Rascal)",
+      "uri": "spotify:track:1Tx2jZNOvlrj20ctkCg8vR"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "track": "Fran-Dance (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "uri": "spotify:track:6YCAJqpG0uSZSwidZODdjW"
+    },
+    {
+      "artist": "Bruno Mars",
+      "album": "Leave The Door Open",
+      "track": "Leave The Door Open",
+      "uri": "spotify:track:4SaGaLbcshvQ4admgCkYdP"
+    },
+    {
+      "artist": "Jacques Brel",
+      "album": "15 Ans D'Amour",
+      "track": "Quand on n'a que l'amour - Arrangements différents",
+      "uri": "spotify:track:607sF1ISzfKaWa29eF3I14"
+    },
+    {
+      "artist": "Feng Suave",
+      "album": "Feng Suave",
+      "track": "Sink into the Floor",
+      "uri": "spotify:track:4UCiDcv0yO9tNLZbkZeBBA"
+    },
+    {
+      "artist": "Gambi",
+      "album": "Hé oh",
+      "track": "HÉ OH",
+      "uri": "spotify:track:1bWafkUCOp6luXRs1cm3w9"
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "album": "Mr. Wonderful",
+      "track": "Trying So Hard to Forget",
+      "uri": "spotify:track:26tvejfVo4iDlMFJYy2vUg"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "IGOR",
+      "track": "PUPPET",
+      "uri": "spotify:track:0wEC0GNF74lAqrEFZJMl1m"
+    },
+    {
+      "artist": "Lord Huron",
+      "album": "Strange Trails",
+      "track": "The Night We Met",
+      "uri": "spotify:track:6mORGLOz79w6VsCRLWYYuK"
+    },
+    {
+      "artist": "Infinit'",
+      "album": "Programme",
+      "track": "Programme",
+      "uri": "spotify:track:7v3zaoMRPpVZE970po4l0X"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "FLIP",
+      "track": "Bryan Herman",
+      "uri": "spotify:track:6dzHsFyLAgE8O7N0ofsdVC"
+    },
+    {
+      "artist": "D'Angelo",
+      "album": "Unshaken",
+      "track": "Unshaken",
+      "uri": "spotify:track:5aozioXEMgxyttOvxCsckp"
+    },
+    {
+      "artist": "Dave",
+      "album": "PSYCHODRAMA",
+      "track": "Drama",
+      "uri": "spotify:track:3xyOv3WrB1l7qh7ZsmFPCU"
+    },
+    {
+      "artist": "Charles Bradley",
+      "album": "No Time For Dreaming",
+      "track": "Golden Rule",
+      "uri": "spotify:track:4OZGco3somorhXTx2yV1RY"
+    },
+    {
+      "artist": "Clara Luciani",
+      "album": "Sainte Victoire",
+      "track": "Drôle d'époque",
+      "uri": "spotify:track:7KU8GC6G7ruGK6tGVLBrKC"
+    },
+    {
+      "artist": "Injury Reserve",
+      "album": "Injury Reserve",
+      "track": "What a Year It’s Been",
+      "uri": "spotify:track:48rQq8MzU2YBsF5IMXSAIx"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "track": "A Lot's Gonna Change",
+      "uri": "spotify:track:5wN3b5AtoOFVCoQW0ldhGD"
+    },
+    {
+      "artist": "Charles Bradley",
+      "album": "No Time For Dreaming",
+      "track": "No Time For Dreaming",
+      "uri": "spotify:track:6tRfiKNxhSljFDNyRRI1TC"
+    },
+    {
+      "artist": "Lefa",
+      "album": "FAME",
+      "track": "Trip (feat. Tayc)",
+      "uri": "spotify:track:2OLztthXg6tjnch7SGC902"
+    },
+    {
+      "artist": "Khalid",
+      "album": "Free Spirit",
+      "track": "Intro",
+      "uri": "spotify:track:5BfMJ6iytQnu1r7iiCYSXe"
+    },
+    {
+      "artist": "Future",
+      "album": "HNDRXX",
+      "track": "Comin Out Strong (feat. The Weeknd)",
+      "uri": "spotify:track:1B87ZDrD3Pno9hS4stamWO"
+    },
+    {
+      "artist": "Nas",
+      "album": "The Lost Tapes 2",
+      "track": "Adult Film (ft. Swizz Beatz)",
+      "uri": "spotify:track:12YsdqzQU8JzxD8PyuqdZ0"
+    },
+    {
+      "artist": "Vanessa Da Mata",
+      "album": "Hôtel Costes 11",
+      "track": "Boa Sorte",
+      "uri": "spotify:track:1OrIF9k3A1wMADZnr4URUB"
+    },
+    {
+      "artist": "Injury Reserve",
+      "album": "Injury Reserve",
+      "track": "Wax On (Feat. Freddie Gibbs)",
+      "uri": "spotify:track:13yFBO0mxphhrphW3s6dx2"
+    },
+    {
+      "artist": "JeanJass",
+      "album": "Goldman",
+      "track": "Mes jambes",
+      "uri": "spotify:track:5XfSZSiHb3NzgawUXZGA40"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "track": "Fran-Dance - alternate take",
+      "uri": "spotify:track:4lcVPIWSWPB7F1emLGz1Tm"
+    },
+    {
+      "artist": "Myth Syzer",
+      "album": "Bisous Mortels",
+      "track": "Cross",
+      "uri": "spotify:track:5DKlcRgRJ1B0JgVaab1XVx"
+    },
+    {
+      "artist": "Yseult",
+      "album": "Noir",
+      "track": "Corps",
+      "uri": "spotify:track:7qx03NsIL42jM03zFphnRO"
+    },
+    {
+      "artist": "Jacob Banks",
+      "album": "The Boy Who Cried Freedom",
+      "track": "Part Time Love",
+      "uri": "spotify:track:6gxTU9ikX25et3VcEaNLax"
+    },
+    {
+      "artist": "Elijah Blake",
+      "album": "Audiology",
+      "track": "Stingy",
+      "uri": "spotify:track:7r5I6HD34Nz2a8Cdb1KIW3"
+    },
+    {
+      "artist": "Hamza",
+      "album": "Paradise",
+      "track": "Blue Crystal",
+      "uri": "spotify:track:53ZAg2M8u0E9Bp0NOmOa3Y"
+    },
+    {
+      "artist": "Guizmo",
+      "album": "Amicalement Vôtre",
+      "track": "Mon CV",
+      "uri": "spotify:track:0hGFlXnSrKrfHFYCuqcPWY"
+    },
+    {
+      "artist": "S.Pri Noir",
+      "album": "Masque blanc",
+      "track": "Juste pour voir",
+      "uri": "spotify:track:0JOJx8jx0dWZk33MsvRZrB"
+    },
+    {
+      "artist": "Dinos",
+      "album": "Stamina, Memento",
+      "track": "Walther PP",
+      "uri": "spotify:track:28qmiyP7GhdicyeOW0mBNW"
+    },
+    {
+      "artist": "Vampire Weekend",
+      "album": "Father of the Bride",
+      "track": "Sympathy",
+      "uri": "spotify:track:2YegRTu9IjiUg4VWfnXyM3"
+    },
+    {
+      "artist": "Ärsenik",
+      "album": "Quelques gouttes suffisent",
+      "track": "Sexe, pouvoir & biftons",
+      "uri": "spotify:track:3jWE8cJGhN8QxPItDUV6YZ"
+    },
+    {
+      "artist": "YUNGBLUD",
+      "album": "21st Century Liability",
+      "track": "Psychotic Kids",
+      "uri": "spotify:track:0h8KNwmDto5ndOqdUOVZGQ"
+    },
+    {
+      "artist": "Zola",
+      "album": "Cicatrices",
+      "track": "B.A.L",
+      "uri": "spotify:track:47vh69y9i93zeUYOJswZxJ"
+    },
+    {
+      "artist": "Khalid",
+      "album": "Free Spirit",
+      "track": "Right Back",
+      "uri": "spotify:track:5A1w94uzc1kO1Zhe8WWxC3"
+    },
+    {
+      "artist": "Modest Mussorgsky",
+      "album": "Les Tableaux D'une Exposition",
+      "track": "10. Samuel Goldenberg et Schmuyle",
+      "uri": "spotify:track:0hjapBZxRwdReolV1nnR5U"
+    },
+    {
+      "artist": "Kazy Lambist",
+      "album": "The City - EP",
+      "track": "The City Is Beautiful",
+      "uri": "spotify:track:2BiyvcKOMARuVATUnv4iJR"
+    },
+    {
+      "artist": "Moses Sumney",
+      "album": "Make Out in My Car: Chameleon Suite",
+      "track": "Make Out in My Car - James Blake Version",
+      "uri": "spotify:track:7qP4HBMVQBRmrlFhS7BG9E"
+    },
+    {
+      "artist": "Orelsan",
+      "album": "La fête est finie",
+      "track": "San",
+      "uri": "spotify:track:36SHbxigbf4iSCHdQVgy6V"
+    },
+    {
+      "artist": "Khalid",
+      "album": "American Teen",
+      "track": "Shot Down",
+      "uri": "spotify:track:1Ob94QesoxHSBrypyBbdfd"
+    },
+    {
+      "artist": "Alivor",
+      "album": "VOR LIFE",
+      "track": "Yomb",
+      "uri": "spotify:track:0sSZ0xM2z1RfcU3w0PRsIA"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "track": "Picture Me Better",
+      "uri": "spotify:track:0tWf84kCHbN14LJmiqg7Yg"
+    },
+    {
+      "artist": "A$AP Rocky",
+      "album": "AT.LONG.LAST.A$AP",
+      "track": "Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",
+      "uri": "spotify:track:2N3U8uTYhjX2KwGT0pf5x0"
+    },
+    {
+      "artist": "Juice WRLD",
+      "album": "Goodbye & Good Riddance",
+      "track": "Lucid Dreams",
+      "uri": "spotify:track:285pBltuF7vW8TeWk8hdRR"
+    },
+    {
+      "artist": "YEИDRY",
+      "album": "Mascarade (feat. Lous and The Yakuza)",
+      "track": "Mascarade (feat. Lous and The Yakuza) - Radio Edit",
+      "uri": "spotify:track:45qyXu23cbQYUqfovmA3Yv"
+    },
+    {
+      "artist": "Elijah Blake",
+      "album": "Audiology",
+      "track": "Momma Knows",
+      "uri": "spotify:track:74t4tJwOd5he33dqKa03Y8"
+    },
+    {
+      "artist": "Guizmo",
+      "album": "Amicalement Vôtre",
+      "track": "Amicalement Vôtre",
+      "uri": "spotify:track:6MLbHuD4TB4z1eByGm2QJs"
+    },
+    {
+      "artist": "Lee Fields & The Expressions",
+      "album": "Special Night",
+      "track": "Never Be Another You",
+      "uri": "spotify:track:500Yfu0VKeADfPtIEYjl5K"
+    },
+    {
+      "artist": "S.Pri Noir",
+      "album": "Masque blanc",
+      "track": "Papillon",
+      "uri": "spotify:track:5PVE1tNUxjqoLgaUtz4CE8"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "ODSL",
+      "track": "Oyasumi",
+      "uri": "spotify:track:08YcTZOCrBqkEcY8klCZSh"
+    },
+    {
+      "artist": "Dave",
+      "album": "PSYCHODRAMA",
+      "track": "Lesley (feat. Ruelle)",
+      "uri": "spotify:track:5F0Bf5M5lTO8SwfRQai4or"
+    },
+    {
+      "artist": "Octavian",
+      "album": "Bet (feat. Skepta & Michael Phantom)",
+      "track": "Bet (feat. Skepta & Michael Phantom)",
+      "uri": "spotify:track:1TULEHv0wpIZYI7zqmhzEg"
+    },
+    {
+      "artist": "Kaaris",
+      "album": "SVR",
+      "track": "Tchalla",
+      "uri": "spotify:track:1ObUIebNfOVxqVbfAt6VL0"
+    },
+    {
+      "artist": "Two Feet",
+      "album": "I Feel Like I'm Drowning",
+      "track": "I Feel Like I'm Drowning",
+      "uri": "spotify:track:42zJqS8TW1Lpsa186of3OY"
+    },
+    {
+      "artist": "Feng Suave",
+      "album": "Feng Suave",
+      "track": "Honey, There's No Time",
+      "uri": "spotify:track:6utl2puTMct2t0ntNnZc68"
+    },
+    {
+      "artist": "Jazzy Bazz",
+      "album": "Nuit",
+      "track": "Éternité",
+      "uri": "spotify:track:3R5atTEAiKBu5t3tZ3D0Uz"
+    },
+    {
+      "artist": "Khalid",
+      "album": "American Teen",
+      "track": "Another Sad Love Song",
+      "uri": "spotify:track:52Qu0no0NBho3zyRmjlsHn"
+    },
+    {
+      "artist": "Loyle Carner",
+      "album": "Yesterday's Gone",
+      "track": "Damselfly",
+      "uri": "spotify:track:32sBVB5HmrwJ6e9g0S2BRL"
+    },
+    {
+      "artist": "Dave",
+      "album": "PSYCHODRAMA",
+      "track": "Screwface Capital",
+      "uri": "spotify:track:65TggCitjPK0sUXtwgOkN9"
+    },
+    {
+      "artist": "Myth Syzer",
+      "album": "Bisous Mortels",
+      "track": "Vilain",
+      "uri": "spotify:track:6cVLkm7RUxxuRhqgo084bF"
+    },
+    {
+      "artist": "YUNGBLUD",
+      "album": "21st Century Liability",
+      "track": "Machine Gun (F**k The NRA)",
+      "uri": "spotify:track:223Ng7eyUcCmFwX9lZdqjD"
+    },
+    {
+      "artist": "Atmosphere",
+      "album": "When Life Gives You Lemons, You Paint That Shit Gold [Standard Edition]",
+      "track": "Painting",
+      "uri": "spotify:track:0F4ZzkeDa1rNMxvijsXmua"
+    },
+    {
+      "artist": "Jacob Banks",
+      "album": "The Boy Who Cried Freedom",
+      "track": "Unknown (To You)",
+      "uri": "spotify:track:22i4odX6PTbslJAbBSJr2E"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "track": "Wild Time",
+      "uri": "spotify:track:7rYRkSaw2woYFnNgfCylmJ"
+    },
+    {
+      "artist": "Swizz Beatz",
+      "album": "POISON",
+      "track": "Echo (feat. Nas)",
+      "uri": "spotify:track:50sSNm5rq7O6wqvkIn42Zf"
+    },
+    {
+      "artist": "Zola",
+      "album": "Cicatrices",
+      "track": "7.65",
+      "uri": "spotify:track:1gP845NpcAZv4BqANMBGaj"
+    },
+    {
+      "artist": "Karen O",
+      "album": "Lux Prima",
+      "track": "Turn The Light",
+      "uri": "spotify:track:6vw4YLRXNvtFxA2yxVrR6H"
+    },
+    {
+      "artist": "The Underachievers",
+      "album": "Evermore - The Art of Duality",
+      "track": "Stay the Same",
+      "uri": "spotify:track:1G7Pi9dtf7n4vwsXmT8CN9"
+    },
+    {
+      "artist": "Zola",
+      "album": "Cicatrices",
+      "track": "Astroboy",
+      "uri": "spotify:track:2ByB9vlVC7p6kDsznT4NYr"
+    },
+    {
+      "artist": "ScHoolboy Q",
+      "album": "Blank Face LP",
+      "track": "THat Part",
+      "uri": "spotify:track:78zC6abUHZ9ntpqLXMqrmo"
+    },
+    {
+      "artist": "Keziah Jones",
+      "album": "Blufunk Is A Fact",
+      "track": "Rhythm Is Love",
+      "uri": "spotify:track:4wKDZYipRIcNAI0IeJwCh7"
+    },
+    {
+      "artist": "Barbara",
+      "album": "Les 50 Plus Belles Chansons De Barbara",
+      "track": "Dis Quand Reviendras-Tu ?",
+      "uri": "spotify:track:6oQQRaaNEWF31jCA9UulK6"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Biking",
+      "track": "Biking",
+      "uri": "spotify:track:2q0VexHJirnUPnEOhr2DxK"
+    },
+    {
+      "artist": "Rone",
+      "album": "Mirapolis",
+      "track": "Origami",
+      "uri": "spotify:track:5p6Jrm0FLPpwnuzU87VHxe"
+    },
+    {
+      "artist": "Therapie TAXI",
+      "album": "Hit Sale (feat. Roméo Elvis) - Single",
+      "track": "Hit Sale (feat. Roméo Elvis)",
+      "uri": "spotify:track:2Cfo3glmnkma7IQH4z95eD"
+    },
+    {
+      "artist": "YG",
+      "album": "4REAL 4REAL",
+      "track": "Go Loko (feat. Tyga, Jon Z)",
+      "uri": "spotify:track:1kK6DwzyXJSp58u5HYWwuD"
+    },
+    {
+      "artist": "Kekra",
+      "album": "Freebase, Vol. 04",
+      "track": "Putain de salaire - 924 Remix",
+      "uri": "spotify:track:1kekvIS8NvtIJSA2UnwKjp"
+    },
+    {
+      "artist": "Youssoupha",
+      "album": "Polaroid experience",
+      "track": "Avoir de l'argent",
+      "uri": "spotify:track:668q2NrwYwDkDxpPfYZGaC"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "FLIP",
+      "track": "Bécane",
+      "uri": "spotify:track:0xe6AkOlSLZQ6PdBOWCBGF"
+    },
+    {
+      "artist": "SiR",
+      "album": "Chasing Summer",
+      "track": "Hair Down (feat. Kendrick Lamar)",
+      "uri": "spotify:track:4sFzG7iUlyPmuyASCkre9A"
+    },
+    {
+      "artist": "Elijah Blake",
+      "album": "Audiology",
+      "track": "Xana White",
+      "uri": "spotify:track:1Z6Mjd1lHOxrtv3YStvx9J"
+    },
+    {
+      "artist": "Orelsan",
+      "album": "La fête est finie",
+      "track": "Paradis",
+      "uri": "spotify:track:3qWNgvQTzSbA67Z4r0mX9O"
+    },
+    {
+      "artist": "YG",
+      "album": "4REAL 4REAL",
+      "track": "In The Dark",
+      "uri": "spotify:track:6l26j7uCiDstBiYTuiaInV"
+    },
+    {
+      "artist": "Jok'air",
+      "album": "Jok'Travolta",
+      "track": "Comme tu es (feat. Alonzo)",
+      "uri": "spotify:track:7t9tqChYMV5ZYmbDbuBxYn"
+    },
+    {
+      "artist": "Rim'K",
+      "album": "Air Max",
+      "track": "Air Max",
+      "uri": "spotify:track:2XESFfYekQ0mRau2GXjT3E"
+    },
+    {
+      "artist": "Georgio",
+      "album": "XX5",
+      "track": "Miroir",
+      "uri": "spotify:track:6d0EkNnIkF9s2mdQmLoyZa"
+    },
+    {
+      "artist": "Nefaste",
+      "album": "Au loin",
+      "track": "Au loin",
+      "uri": "spotify:track:2cJeI7DxAkvbWTQLozVMwp"
+    },
+    {
+      "artist": "Jazzy Bazz",
+      "album": "Nuit",
+      "track": "Sentiments",
+      "uri": "spotify:track:25rbhXgDxiONgXtmZv6f1a"
+    },
+    {
+      "artist": "Wolfgang Amadeus Mozart",
+      "album": "Mozart : Les Noces de Figaro (extraits)",
+      "track": "Le nozze di Figaro, K.492: Overture",
+      "uri": "spotify:track:2Hh7kW92GHzE5GRAVsWCvm"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "track": "Freddie Freeloader - False Start",
+      "uri": "spotify:track:3NOweI7UeWPF9PzgEsiG78"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "Doris",
+      "track": "Sunday (feat. Frank Ocean)",
+      "uri": "spotify:track:0fAehaneUJdlSlWXYe1KZp"
+    },
+    {
+      "artist": "Noel Gallagher's High Flying Birds",
+      "album": "Who Built The Moon?",
+      "track": "The Man Who Built The Moon",
+      "uri": "spotify:track:4NCTZW7GDP44DnDrG5zfeO"
+    },
+    {
+      "artist": "YG",
+      "album": "4REAL 4REAL",
+      "track": "Heart 2 Heart (feat. Meek Mill, Arin Ray, Rose Gold)",
+      "uri": "spotify:track:4DZYw8xlfErmEvjV5BR2I7"
+    },
+    {
+      "artist": "Gambi",
+      "album": "Popopop",
+      "track": "POPOPOP",
+      "uri": "spotify:track:18HNGxDOcshRU2Hdu8tMOM"
+    },
+    {
+      "artist": "Khalid",
+      "album": "Free Spirit",
+      "track": "Hundred",
+      "uri": "spotify:track:0HEckRWFSknIupbGzavk5d"
+    },
+    {
+      "artist": "Nekfeu",
+      "album": "Les étoiles vagabondes : expansion",
+      "track": "Tricheur",
+      "uri": "spotify:track:7C7GtWZmyicqjBDbAWPsCp"
+    },
+    {
+      "artist": "13 Block",
+      "album": "BLO",
+      "track": "Fuck le 17",
+      "uri": "spotify:track:5fuCDbUO4N25kp71MunbDk"
+    },
+    {
+      "artist": "Fixpen Sill",
+      "album": "Edelweiss",
+      "track": "Edelweiss",
+      "uri": "spotify:track:5LeYyDN1U8tiVivVLAr7XA"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "FLIP",
+      "track": "Billet",
+      "uri": "spotify:track:2i49YlFI4mH2pKBfQFfqEN"
+    },
+    {
+      "artist": "The Underachievers",
+      "album": "Evermore - The Art of Duality",
+      "track": "Shine All Gold",
+      "uri": "spotify:track:2IrUDTp2RsE4pSZxFYxj82"
+    },
+    {
+      "artist": "Charles Bradley",
+      "album": "No Time For Dreaming",
+      "track": "Why Is It So Hard",
+      "uri": "spotify:track:7bX0A7i2cMBxKbYoMMoZyL"
+    },
+    {
+      "artist": "A$AP Rocky",
+      "album": "TESTING",
+      "track": "Purity (feat. Frank Ocean)",
+      "uri": "spotify:track:2MF4HtZHBoUliOi9nOAbS0"
+    },
+    {
+      "artist": "JACKBOYS",
+      "album": "JACKBOYS",
+      "track": "WHAT TO DO? (feat. Don Toliver)",
+      "uri": "spotify:track:4AO1XhrgJczQ9bNVxdfKQe"
+    },
+    {
+      "artist": "Zola",
+      "album": "Cicatrices",
+      "track": "Alloicizolaski4 (feat. No Name & Key Largo)",
+      "uri": "spotify:track:1PQB5bLM3Y1l4SrTI6cXdI"
+    },
+    {
+      "artist": "Big Thief",
+      "album": "U.F.O.F.",
+      "track": "From",
+      "uri": "spotify:track:1CPMPJIMLFQggk8G0N8VB4"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Chanel",
+      "track": "Chanel",
+      "uri": "spotify:track:6Nle9hKrkL1wQpwNfEkxjh"
+    },
+    {
+      "artist": "Dan Levy",
+      "album": "I Lost My Body (Original Motion Picture Soundtrack)",
+      "track": "J'ai perdu mon corps",
+      "uri": "spotify:track:1cXaJ1zC7Bava26r2v6nP7"
+    },
+    {
+      "artist": "Zola",
+      "album": "Cicatrices",
+      "track": "Cicatrices",
+      "uri": "spotify:track:0NVu1CAYSAjPx3ERIXIe90"
+    },
+    {
+      "artist": "John Legend",
+      "album": "DARKNESS AND LIGHT",
+      "track": "Darkness and Light (feat. Brittany Howard)",
+      "uri": "spotify:track:4jBPWUAtvIbj7trXEg9QPJ"
+    },
+    {
+      "artist": "The Underachievers",
+      "album": "Evermore - The Art of Duality",
+      "track": "Generation Z",
+      "uri": "spotify:track:2LTv7hBKSihUDNsBpML4UQ"
+    },
+    {
+      "artist": "ISHA",
+      "album": "La vie augmente, Vol.3",
+      "track": "Décorer les murs",
+      "uri": "spotify:track:0UKyMBW90MqMIkSk6Y2asU"
+    },
+    {
+      "artist": "Georges Brassens",
+      "album": "Georges Brassens chante les chansons poétiques (et souvent gaillardes) N°1",
+      "track": "La mauvaise réputation",
+      "uri": "spotify:track:1CXcTLzJ3b2KJylbsbF0cE"
+    },
+    {
+      "artist": "Khalid",
+      "album": "American Teen",
+      "track": "Hopeless",
+      "uri": "spotify:track:3JTtZUOiZljuWbNiasfHB6"
+    },
+    {
+      "artist": "SONBEST",
+      "album": "Sacrifice",
+      "track": "Sacrifice",
+      "uri": "spotify:track:6WMzkKgSNmuJvursaRG75Q"
+    },
+    {
+      "artist": "YG",
+      "album": "4REAL 4REAL",
+      "track": "Hard Bottoms & White Socks",
+      "uri": "spotify:track:6CX0WrNFDyA5xM3wqWFAZV"
+    },
+    {
+      "artist": "Idir",
+      "album": "A Vava Inouva",
+      "track": "A Vava Inouva",
+      "uri": "spotify:track:06eEMrvlkBmLLaezDSDcEl"
+    },
+    {
+      "artist": "Khalid",
+      "album": "Free Spirit",
+      "track": "My Bad",
+      "uri": "spotify:track:2XKFnwB6djxrJCjR3PdeRb"
+    },
+    {
+      "artist": "Travis Scott",
+      "album": "ASTROWORLD",
+      "track": "WAKE UP",
+      "uri": "spotify:track:20MuVazoNMv6xjKPnRFOxG"
+    },
+    {
+      "artist": "A$AP Rocky",
+      "album": "AT.LONG.LAST.A$AP",
+      "track": "Holy Ghost (feat. Joe Fox)",
+      "uri": "spotify:track:6AHNkRbVzkh95xilnYzDT7"
+    },
+    {
+      "artist": "Vampire Weekend",
+      "album": "Father of the Bride",
+      "track": "We Belong Together (feat. Danielle Haim)",
+      "uri": "spotify:track:1MkiAWVcbxZ7NzMuAuWqJS"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "FLIP",
+      "track": "Avion",
+      "uri": "spotify:track:35FhAl93DIY0vxcsQK9w2R"
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "album": "Love & Hate",
+      "track": "Rule The World",
+      "uri": "spotify:track:6ulet7v2KicrXN6RIEXjeQ"
+    },
+    {
+      "artist": "Ibeyi",
+      "album": "Ash",
+      "track": "Numb",
+      "uri": "spotify:track:3mDOytTsDNgKakkon0cQOE"
+    },
+    {
+      "artist": "Charles Bradley",
+      "album": "No Time For Dreaming",
+      "track": "The Telephone Song",
+      "uri": "spotify:track:403DC96V2tk1pPa3ZAHQxe"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "track": "Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "uri": "spotify:track:6dRx7OUXfvosnXG3g9lWGi"
+    },
+    {
+      "artist": "Hamza",
+      "album": "Paradise",
+      "track": "Minuit 13 (feat. Christine and the Queens & Oxmo Puccino)",
+      "uri": "spotify:track:1fTGud5T8TUecNuEFVMD3y"
+    },
+    {
+      "artist": "Lee Fields & The Expressions",
+      "album": "Faithful Man",
+      "track": "Faithful Man",
+      "uri": "spotify:track:2gd0nRAv2Q4Y3KVt7NMbrH"
+    },
+    {
+      "artist": "Human Touch",
+      "album": "13 Reasons Why",
+      "track": "Promise Not To Fall",
+      "uri": "spotify:track:7tQ9nEJbYZTb8ghZ0d2t0k"
+    },
+    {
+      "artist": "DTF",
+      "album": "Sans rêve",
+      "track": "100 rêves",
+      "uri": "spotify:track:0UXW6ihyeYHfb4jae7QxGl"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "IGOR",
+      "track": "IGOR'S THEME",
+      "uri": "spotify:track:51RN0kzWd7xeR4th5HsEtW"
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "album": "Love & Hate",
+      "track": "One More Night",
+      "uri": "spotify:track:412CjxsPsYFUJ87P89iXiR"
+    },
+    {
+      "artist": "Damso",
+      "album": "Ipséité",
+      "track": "Ipséité",
+      "uri": "spotify:track:2cqIyMApTDUOo6VO5VFQsH"
+    },
+    {
+      "artist": "Karen O",
+      "album": "Lux Prima",
+      "track": "Nox Lumina",
+      "uri": "spotify:track:6jlKy0yIEYeQRAPbrMT1qD"
+    },
+    {
+      "artist": "Kalash",
+      "album": "Diamond Rock",
+      "track": "JTC - Bonus",
+      "uri": "spotify:track:7vXRcTIQa2QwDwkJuGziSn"
+    },
+    {
+      "artist": "The Underachievers",
+      "album": "Evermore - The Art of Duality",
+      "track": "Rain Dance (Phase 1 Intro)",
+      "uri": "spotify:track:1z4BNxy6dgvl1rUt72KYq9"
+    },
+    {
+      "artist": "Georgio",
+      "album": "XX5",
+      "track": "Dans mon élément",
+      "uri": "spotify:track:6O03GOrn4Sey7ktrT8jeMa"
+    },
+    {
+      "artist": "Shay",
+      "album": "Jolie",
+      "track": "Jolie",
+      "uri": "spotify:track:42CfzZxF5yJqbUS2FuKlrc"
+    },
+    {
+      "artist": "Adam Naas",
+      "album": "Adam Naas",
+      "track": "Fading Away",
+      "uri": "spotify:track:1fsarPmsdYzQuEtgeqLusc"
+    },
+    {
+      "artist": "Noel Gallagher's High Flying Birds",
+      "album": "Who Built The Moon?",
+      "track": "If Love Is the Law",
+      "uri": "spotify:track:6U7OSCAUuY5sDWFW7awmZY"
+    },
+    {
+      "artist": "Tom Waits",
+      "album": "Franks Wild Years",
+      "track": "Way Down In The Hole",
+      "uri": "spotify:track:27MNsCvgxqdBE2CICEXkrY"
+    },
+    {
+      "artist": "Dosseh",
+      "album": "Black Snake",
+      "track": "Superhéro",
+      "uri": "spotify:track:1dXOd2cT6Wh5TEb1og8ckU"
+    },
+    {
+      "artist": "Big Thief",
+      "album": "U.F.O.F.",
+      "track": "Jenni",
+      "uri": "spotify:track:5CAGdkVcqwmKhgFeC4iJjU"
+    },
+    {
+      "artist": "The Underachievers",
+      "album": "Evermore - The Art of Duality",
+      "track": "The Brooklyn Way",
+      "uri": "spotify:track:3hL9CgHu0QiLPt3rwov5Co"
+    },
+    {
+      "artist": "Vald",
+      "album": "V",
+      "track": "Qui écoute ?",
+      "uri": "spotify:track:3jTpDWRLWpaDSxdBDJnXaL"
+    },
+    {
+      "artist": "Vampire Weekend",
+      "album": "Father of the Bride",
+      "track": "My Mistake",
+      "uri": "spotify:track:2G5ZpNvgSOOcBCpLcOfvJy"
+    },
+    {
+      "artist": "Muddy Waters",
+      "album": "King Of The Electric Blues",
+      "track": "Mannish Boy",
+      "uri": "spotify:track:58PSYdY0GFg0LFb2PxYk4T"
+    },
+    {
+      "artist": "Elijah Blake",
+      "album": "Audiology",
+      "track": "California Livin'",
+      "uri": "spotify:track:4ohM7dRaU4CjAXhBMRhHTI"
+    },
+    {
+      "artist": "Russ",
+      "album": "The Game",
+      "track": "The Game",
+      "uri": "spotify:track:6zSxEM73OmSnvpvoAH1luE"
+    },
+    {
+      "artist": "J. Cole",
+      "album": "KOD",
+      "track": "KOD",
+      "uri": "spotify:track:7yotKA30dwTKNEGomV9ZsI"
+    },
+    {
+      "artist": "Aladin 135",
+      "album": "T'endors pas",
+      "track": "T'endors pas",
+      "uri": "spotify:track:5DHSS9PS9xssLz0aRrT0ZI"
+    },
+    {
+      "artist": "Elijah Blake",
+      "album": "Audiology",
+      "track": "Occupied",
+      "uri": "spotify:track:5YOff7M1iLdt6eaFx27gDY"
+    },
+    {
+      "artist": "Laylow",
+      "album": "Mercy",
+      "track": "10'",
+      "uri": "spotify:track:2hC4Nw0AW2fTl7P0Ifj8fp"
+    },
+    {
+      "artist": "ZHU",
+      "album": "Generationwhy",
+      "track": "Cold Blooded",
+      "uri": "spotify:track:2Cjo67AcVWkZO1N3PBuuBB"
+    },
+    {
+      "artist": "Alivor",
+      "album": "VOR LIFE",
+      "track": "Pour toi",
+      "uri": "spotify:track:2FooCAnIEzX7dt4l3Jxf1N"
+    },
+    {
+      "artist": "Jacques Brel",
+      "album": "J'Arrive (Vol.12)",
+      "track": "Vesoul",
+      "uri": "spotify:track:2F94KDtJjCdzZYCQWBliRC"
+    },
+    {
+      "artist": "Coelho",
+      "album": "Vanités",
+      "track": "Eternité",
+      "uri": "spotify:track:6uTfSwnTdIZlR5Hna7oLqN"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "FEAR.",
+      "uri": "spotify:track:3SP0MlWYfu7xt1ZfMqBxh9"
+    },
+    {
+      "artist": "Nekfeu",
+      "album": "Les étoiles vagabondes : expansion",
+      "track": "Óλά Καλά",
+      "uri": "spotify:track:5ugbi9Njjt5PQRqkLXhX2W"
+    },
+    {
+      "artist": "Travis Scott",
+      "album": "Rodeo (Expanded Edition)",
+      "track": "3500 (feat. Future & 2 Chainz)",
+      "uri": "spotify:track:1SGt65i9AnXYdDQt1AtDRH"
+    },
+    {
+      "artist": "Vampire Weekend",
+      "album": "Father of the Bride",
+      "track": "Bambina",
+      "uri": "spotify:track:528bxUV84T4T8HHBFSpcaV"
+    },
+    {
+      "artist": "Zola",
+      "album": "Cicatrices",
+      "track": "Extasy",
+      "uri": "spotify:track:4q1WNOlRxBtTWnD36yBlAC"
+    },
+    {
+      "artist": "EFKA",
+      "album": "In The Morning",
+      "track": "In The Morning",
+      "uri": "spotify:track:6rvCNYb37O3MY8jLNUSk5c"
+    },
+    {
+      "artist": "Young Thug",
+      "album": "On the Run",
+      "track": "Sin (feat. Jaden Smith)",
+      "uri": "spotify:track:1Jl21sidRpEdlVBvYbssLx"
+    },
+    {
+      "artist": "S+C+A+R+R",
+      "album": "The Rest of My Days",
+      "track": "The Rest of My Days",
+      "uri": "spotify:track:4ABiRDaBGg0hHeAWeAEcNq"
+    },
+    {
+      "artist": "YG",
+      "album": "4REAL 4REAL",
+      "track": "Keshia Had A Baby (feat. Rose Gold)",
+      "uri": "spotify:track:7Me3i3btcfoCNftr11iKtf"
+    },
+    {
+      "artist": "Injury Reserve",
+      "album": "Injury Reserve",
+      "track": "Hello?!",
+      "uri": "spotify:track:3CJydP1lJO0QUUu54Juzqe"
+    },
+    {
+      "artist": "YG",
+      "album": "4REAL 4REAL",
+      "track": "Her Story (feat. Day Sulan)",
+      "uri": "spotify:track:56HstIDSYUSf7FR9LI9IJQ"
+    },
+    {
+      "artist": "Noel Gallagher's High Flying Birds",
+      "album": "Who Built The Moon?",
+      "track": "Interlude (Wednesday, Pt. 1)",
+      "uri": "spotify:track:2KxknfzkEr1plgGADqx5OL"
+    },
+    {
+      "artist": "Josman",
+      "album": "000$",
+      "track": "Vanille",
+      "uri": "spotify:track:1rIDdOtd8O0uG68WYqUWKm"
+    },
+    {
+      "artist": "Loud",
+      "album": "Une année record",
+      "track": "Nouveaux riches",
+      "uri": "spotify:track:1wyZuDl8axRehpED8pQpA4"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "FLIP",
+      "track": "Sur le sol",
+      "uri": "spotify:track:25TLmTuojw3ExcFaaSBFmg"
+    },
+    {
+      "artist": "Injury Reserve",
+      "album": "Injury Reserve",
+      "track": "Gravy n’ Biscuits",
+      "uri": "spotify:track:0uqgYwT22ey4WphJav1s68"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "dont smile at me",
+      "track": "idontwannabeyouanymore",
+      "uri": "spotify:track:41zXlQxzTi6cGAjpOXyLYH"
+    },
+    {
+      "artist": "Lee Fields & The Expressions",
+      "album": "Faithful Man",
+      "track": "Wish You Were Here",
+      "uri": "spotify:track:2BZjcbZpQyyhpVr3gMGPn6"
+    },
+    {
+      "artist": "Lord Esperanza",
+      "album": "Drapeau Noir",
+      "track": "Drapeau Noir",
+      "uri": "spotify:track:1c504qHr8DCi02YJW50gkh"
+    },
+    {
+      "artist": "A$AP Rocky",
+      "album": "AT.LONG.LAST.A$AP",
+      "track": "L$D",
+      "uri": "spotify:track:4S7YHmlWwfwArgd8LfSPud"
+    },
+    {
+      "artist": "Idir",
+      "album": "A Vava Inouva (Summer Edition 2018)",
+      "track": "A Vava Inouva (Summer Edition 2018)",
+      "uri": "spotify:track:4ABseBzg5Spz6J6nSXbIy0"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "Tee",
+      "track": "Tee",
+      "uri": "spotify:track:7lipUxEvDX7gvpVLOoqiau"
+    },
+    {
+      "artist": "Karen O",
+      "album": "Lux Prima",
+      "track": "Reveries",
+      "uri": "spotify:track:6kvE4G2vcDvh3zf6Lbv752"
+    },
+    {
+      "artist": "Youssoupha",
+      "album": "Polaroid experience",
+      "track": "Devenir vieux",
+      "uri": "spotify:track:3iBwLhpjUF7SnfFYrgAAhO"
+    },
+    {
+      "artist": "Hiroyuki Sawano",
+      "album": "TV Anime \"Attack on Titan Season 2\" (Original Soundtrack)",
+      "track": "You See Big Girl / T:T",
+      "uri": "spotify:track:4dHOnPucB5VBYq3gjRtYy9"
+    },
+    {
+      "artist": "Guizmo",
+      "album": "Amicalement Vôtre",
+      "track": "Je l'aime autant que je la hais",
+      "uri": "spotify:track:7oLAscKbv5bqYMTJUIwHxM"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "track": "On Green Dolphin Street (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "uri": "spotify:track:0tUq1zaYNoV6ZiYRU2bjqf"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "track": "Mirror Forever",
+      "uri": "spotify:track:5N76KLnknjPX38D9qltk7I"
+    },
+    {
+      "artist": "Columbine",
+      "album": "Adieu bientôt",
+      "track": "Cache-Cache",
+      "uri": "spotify:track:6pbCwd97Z68YM9PUpMVyHG"
+    },
+    {
+      "artist": "Carpenter Brut",
+      "album": "TRILOGY",
+      "track": "Turbo Killer",
+      "uri": "spotify:track:10qbHF920zH5K8C8IcE5AL"
+    },
+    {
+      "artist": "Cerrone",
+      "album": "Experience (feat. Laylow)",
+      "track": "Experience (feat. Laylow)",
+      "uri": "spotify:track:0oItMWec2X4k5S2oBrf3U9"
+    },
+    {
+      "artist": "Grant Lee Buffalo",
+      "album": "Fuzzy",
+      "track": "Fuzzy",
+      "uri": "spotify:track:0cJ6ZvI6O9bYWgCV7rhL8N"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "FLIP",
+      "track": "70",
+      "uri": "spotify:track:7uoFvYdIndipXZXwE9hlMB"
+    },
+    {
+      "artist": "Karen O",
+      "album": "Lux Prima",
+      "track": "Lux Prima",
+      "uri": "spotify:track:734rk1kHSPkEFZrn6KTrEn"
+    },
+    {
+      "artist": "Hamza",
+      "album": "Paradise",
+      "track": "Validé",
+      "uri": "spotify:track:1hGwyhwU1cYUVce7i4d0hZ"
+    },
+    {
+      "artist": "The Underachievers",
+      "album": "Evermore - The Art of Duality",
+      "track": "Reincarnation (Phase 2 Intro)",
+      "uri": "spotify:track:5CbzABzoNmgrgKJSaez89a"
+    },
+    {
+      "artist": "Hamza",
+      "album": "Paradise",
+      "track": "HS (feat. SCH)",
+      "uri": "spotify:track:2JAO138j1wJjQ2mmm7aAbP"
+    },
+    {
+      "artist": "A Tribe Called Quest",
+      "album": "We got it from Here... Thank You 4 Your service",
+      "track": "Dis Generation",
+      "uri": "spotify:track:2Pp3QD3thPnk2kCxmu2MHK"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "Outro",
+      "uri": "spotify:track:1s9i7W8zx7Nxx78MUIsvjV"
+    },
+    {
+      "artist": "Vladimir Cauchemar",
+      "album": "Blizzard",
+      "track": "Blizzard",
+      "uri": "spotify:track:4fH8yHA3xQrIuFyzaUk8Qf"
+    },
+    {
+      "artist": "Léo Ferré",
+      "album": "C'Est Extra",
+      "track": "C'est extra",
+      "uri": "spotify:track:6UANIFJUTSA77swvaACv8P"
+    },
+    {
+      "artist": "Pink Anderson",
+      "album": "Classic Piedmont Blues from Smithsonian Folkways",
+      "track": "I Got a Woman 'Cross Town",
+      "uri": "spotify:track:02RWsLtbqD8qNn9Wqg1etE"
+    },
+    {
+      "artist": "Sneazzy",
+      "album": "NOUVO MODE",
+      "track": "CIGARETTES",
+      "uri": "spotify:track:5RfGtB2x4yuCwJ2MSXL9aG"
+    },
+    {
+      "artist": "Dua Lipa",
+      "album": "Fever",
+      "track": "Fever",
+      "uri": "spotify:track:3wJVBz7gvGTwTWVAxFa6ny"
+    },
+    {
+      "artist": "Dave",
+      "album": "PSYCHODRAMA",
+      "track": "Black",
+      "uri": "spotify:track:0J43IKwcofdlTQPjcbHxCM"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "ODSL",
+      "track": "R2D2 (Instrumental)",
+      "uri": "spotify:track:12fMWcY8uU3Plt9qfdPEIP"
+    },
+    {
+      "artist": "Jacob Banks",
+      "album": "The Boy Who Cried Freedom",
+      "track": "Unknown (To You) - Timbaland Remix",
+      "uri": "spotify:track:6c7hjV8BQIyR2S5dht8oVM"
+    },
+    {
+      "artist": "Oxmo Puccino",
+      "album": "Opéra Puccino",
+      "track": "L'enfant seul - Remasterisé",
+      "uri": "spotify:track:7qc55PpGecCorFqxLGurp3"
+    },
+    {
+      "artist": "Young Thug",
+      "album": "Beautiful Thugger Girls",
+      "track": "Family Don't Matter (feat. Millie Go Lightly)",
+      "uri": "spotify:track:445YTBOjx9kYThBepGA9au"
+    },
+    {
+      "artist": "Vampire Weekend",
+      "album": "Father of the Bride",
+      "track": "Rich Man",
+      "uri": "spotify:track:2WaaqcSdsLliuWTnmY4rLC"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "track": "Andromeda",
+      "uri": "spotify:track:3NQMi6VzmxmKeqhcbE02WI"
+    },
+    {
+      "artist": "Eric Clapton",
+      "album": "Unplugged",
+      "track": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
+      "uri": "spotify:track:3BEZCNZSmVv30vsMNSOCri"
+    },
+    {
+      "artist": "Khalid",
+      "album": "Free Spirit",
+      "track": "Heaven",
+      "uri": "spotify:track:0Hgqglypzt6Qs5Duqskcqs"
+    },
+    {
+      "artist": "Lee Fields & The Expressions",
+      "album": "My World",
+      "track": "Ladies",
+      "uri": "spotify:track:6iNHWlOLt4NuDi9iSvtznO"
+    },
+    {
+      "artist": "Khalid",
+      "album": "American Teen",
+      "track": "8TEEN",
+      "uri": "spotify:track:5bgwqaRSS3M8WHWruHgSL5"
+    },
+    {
+      "artist": "Ikaz Boi",
+      "album": "BRUTAL 2",
+      "track": "SOLITERRIEN",
+      "uri": "spotify:track:7qj2pdwGVmN7E26nMVFeMq"
+    },
+    {
+      "artist": "Hiroyuki Sawano",
+      "album": "TV Anime \"Attack on Titan\" Original Soundtrack",
+      "track": "Attack on Titan",
+      "uri": "spotify:track:5IzZpz0vA73IIjqFPpXSXP"
+    },
+    {
+      "artist": "Vampire Weekend",
+      "album": "Father of the Bride",
+      "track": "Spring Snow",
+      "uri": "spotify:track:1ze0Z3ZnIDITxj13NRok4z"
+    },
+    {
+      "artist": "Elijah Blake",
+      "album": "Audiology",
+      "track": "11: 59",
+      "uri": "spotify:track:4xBCEFuVjypxDbE9hPlHjz"
+    },
+    {
+      "artist": "Harry Styles",
+      "album": "Lights Up",
+      "track": "Lights Up",
+      "uri": "spotify:track:2plLJpUcYPFrl1sW2pMG63"
+    },
+    {
+      "artist": "Nate Kohrs",
+      "album": "The Nineteen",
+      "track": "O.S.B.",
+      "uri": "spotify:track:3ZlyZFBnqsMC8XxbrBTgXd"
+    },
+    {
+      "artist": "Rachid Taha",
+      "album": "Africa Express Presents… the Orchestra of Syrian Musicians & Guests",
+      "track": "Ya Rayeh",
+      "uri": "spotify:track:49Dwul6ryOWMTKjJfVb3o8"
+    },
+    {
+      "artist": "RK",
+      "album": "C'est mon sang",
+      "track": "C'est mon sang",
+      "uri": "spotify:track:1NEdLeqdQ8hufML9t9dHiU"
+    },
+    {
+      "artist": "PLK",
+      "album": "Enna",
+      "track": "A la base",
+      "uri": "spotify:track:0GUH7Qb3w9xOcfRIWoaJmt"
+    },
+    {
+      "artist": "Khalid",
+      "album": "Free Spirit",
+      "track": "Self",
+      "uri": "spotify:track:1WqLtczgKdbHFHhefOU0y7"
+    },
+    {
+      "artist": "DA Uzi",
+      "album": "Vrai 2 vrai",
+      "track": "Génération 90",
+      "uri": "spotify:track:01WbS0krVp13VK6sEhAdL5"
+    },
+    {
+      "artist": "Freya Ridings",
+      "album": "Freya Ridings",
+      "track": "Lost Without You",
+      "uri": "spotify:track:3cWI6Hj9LQ0MfMuhw9uSMc"
+    },
+    {
+      "artist": "Ane Brun",
+      "album": "Rarities",
+      "track": "All My Tears",
+      "uri": "spotify:track:2UZ8C6abrCuhjelaK1MFz1"
+    },
+    {
+      "artist": "BJ The Chicago Kid",
+      "album": "9th Wonder Presents: Jamla Is The Squad (Deluxe Edition)",
+      "track": "15 Minutes of Fame",
+      "uri": "spotify:track:7HywsbtqPZhDR4dQ75gWYu"
+    },
+    {
+      "artist": "Charles Bradley",
+      "album": "No Time For Dreaming",
+      "track": "Since Our Last Goodbye",
+      "uri": "spotify:track:08XeJufNInNFWSY3Xg4arv"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "MONOPOLY",
+      "track": "MONOPOLY (with Victoria Monét)",
+      "uri": "spotify:track:6tsOcBnaKgzK22yEiqRh8P"
+    },
+    {
+      "artist": "Zola",
+      "album": "Cicatrices",
+      "track": "Club",
+      "uri": "spotify:track:2txhhCJLqVx3eer69Flu1b"
+    },
+    {
+      "artist": "John Coltrane",
+      "album": "The Stardust Session",
+      "track": "Stardust",
+      "uri": "spotify:track:178USs8vVWK1LFcnOFeMIt"
+    },
+    {
+      "artist": "13 Block",
+      "album": "Balayer",
+      "track": "Balayer",
+      "uri": "spotify:track:2CTvJTRd4mkGSWId2t6Hea"
+    },
+    {
+      "artist": "Jok'air",
+      "album": "Jok'Rambo",
+      "track": "Le club brûle (feat. Chich & R.O.C GANG)",
+      "uri": "spotify:track:2ecRZx3E0spZgrH4gFCn45"
+    },
+    {
+      "artist": "Hamza",
+      "album": "140 BPM 2",
+      "track": "Keke",
+      "uri": "spotify:track:55iofhgDUt3PDZadpqbHAE"
+    },
+    {
+      "artist": "Lil Nas X",
+      "album": "Old Town Road",
+      "track": "Old Town Road (feat. Billy Ray Cyrus) - Remix",
+      "uri": "spotify:track:6u7jPi22kF8CTQ3rb9DHE7"
+    },
+    {
+      "artist": "Ibeyi",
+      "album": "Ash",
+      "track": "Deathless",
+      "uri": "spotify:track:5Ef2jAFk5vIY9upkqPxbgm"
+    },
+    {
+      "artist": "Farruko",
+      "album": "Pepas",
+      "track": "Pepas",
+      "uri": "spotify:track:5fwSHlTEWpluwOM0Sxnh5k"
+    },
+    {
+      "artist": "The Underachievers",
+      "album": "Evermore - The Art of Duality",
+      "track": "Unconscious Monsters (Evermore Outro)",
+      "uri": "spotify:track:51IhojYdbag71exWN7mXwc"
+    },
+    {
+      "artist": "Zola",
+      "album": "Cicatrices",
+      "track": "Jamais",
+      "uri": "spotify:track:2WxRMZ18AZDk314HQDg4Mo"
+    },
+    {
+      "artist": "Post Malone",
+      "album": "beerbongs & bentleys",
+      "track": "Rich & Sad",
+      "uri": "spotify:track:2VdT56BGpdqNHUgOe1j5vc"
+    },
+    {
+      "artist": "Otzeki",
+      "album": "Falling Out",
+      "track": "Falling Out",
+      "uri": "spotify:track:6G4OcwbWhQ8j7Ds1CZaxcj"
+    },
+    {
+      "artist": "Khalid",
+      "album": "Free Spirit",
+      "track": "Bad Luck",
+      "uri": "spotify:track:2vsuel3g4zaLYSOY0mOMbi"
+    },
+    {
+      "artist": "Jok'air",
+      "album": "Jok'Rambo",
+      "track": "Alléluia (feat. Chich)",
+      "uri": "spotify:track:7kZHg5olp3MGpHTdjymjtu"
+    },
+    {
+      "artist": "Big Thief",
+      "album": "U.F.O.F.",
+      "track": "Century",
+      "uri": "spotify:track:2BpMZbgQsOpkq0zrpZHQai"
+    },
+    {
+      "artist": "Barbara",
+      "album": "L'Aigle Noir",
+      "track": "L'aigle noir",
+      "uri": "spotify:track:0e3J7BxEO608VEaQ5aZNoU"
+    },
+    {
+      "artist": "Noel Gallagher's High Flying Birds",
+      "album": "Who Built The Moon?",
+      "track": "Fort Knox",
+      "uri": "spotify:track:5E1i8xaF4fG9gQ5QaJm7Xv"
+    },
+    {
+      "artist": "The Underachievers",
+      "album": "Evermore - The Art of Duality",
+      "track": "Chasing Faith",
+      "uri": "spotify:track:5abbeudLkmYuHqXzao1iDL"
+    },
+    {
+      "artist": "Khalid",
+      "album": "Free Spirit",
+      "track": "Don't Pretend (feat. SAFE)",
+      "uri": "spotify:track:1E6DEDWDKHoOW0fcFuDghV"
+    },
+    {
+      "artist": "Khalid",
+      "album": "Free Spirit",
+      "track": "Talk (feat. Disclosure)",
+      "uri": "spotify:track:6TqXcAFInzjp0bODyvrWEq"
+    },
+    {
+      "artist": "Travis Scott",
+      "album": "ASTROWORLD",
+      "track": "STOP TRYING TO BE GOD",
+      "uri": "spotify:track:1xYpVRspgaLxdJLOTQkTjg"
+    },
+    {
+      "artist": "Alpha Wann",
+      "album": "UNE MAIN LAVE L'AUTRE",
+      "track": "POUR CELLES",
+      "uri": "spotify:track:27tLMdJ06H4sRGhloJJpDR"
+    },
+    {
+      "artist": "Injury Reserve",
+      "album": "Injury Reserve",
+      "track": "Rap Song Tutorial",
+      "uri": "spotify:track:5u9UVp5hkOjzuMU4wyJ5HZ"
+    },
+    {
+      "artist": "Superpoze",
+      "album": "Opening (Deluxe)",
+      "track": "Unlive (Dream Koala Rework)",
+      "uri": "spotify:track:1bzd2sHEe1ufWK8bfxHvfS"
+    },
+    {
+      "artist": "Nekfeu",
+      "album": "Les étoiles vagabondes : expansion",
+      "track": "Pixels",
+      "uri": "spotify:track:6QqY2plTuilRRx6u0LUozY"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "DUCKWORTH.",
+      "uri": "spotify:track:0CA3A2LhGO9cdx6z5EETy2"
+    },
+    {
+      "artist": "Big Thief",
+      "album": "U.F.O.F.",
+      "track": "Orange",
+      "uri": "spotify:track:5Xyv1BySk5PQpSPyDNAGCM"
+    },
+    {
+      "artist": "YG",
+      "album": "4REAL 4REAL",
+      "track": "Do Yo Dance (feat. Kamaiyah, RJ, Mitch, Ty Dolla $ign)",
+      "uri": "spotify:track:4ABM7D05ULpP8CGyuDJ1Yg"
+    },
+    {
+      "artist": "Georgio",
+      "album": "Bleu noir",
+      "track": "Les anges déchus, les gens déçus",
+      "uri": "spotify:track:6VBlfQjsDjRXzhuq5Q3K49"
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "album": "Love & Hate",
+      "track": "Place I Belong",
+      "uri": "spotify:track:1aQ92oSlp0o69CZ5Y6SmAe"
+    },
+    {
+      "artist": "Noel Gallagher's High Flying Birds",
+      "album": "Who Built The Moon?",
+      "track": "Keep on Reaching",
+      "uri": "spotify:track:0SK8wBXzaVeSGoMql4P7gq"
+    },
+    {
+      "artist": "Vald",
+      "album": "V",
+      "track": "Regarde toi",
+      "uri": "spotify:track:3fd1m0WrUUkntWM2EnLS2Y"
+    },
+    {
+      "artist": "Vampire Weekend",
+      "album": "Father of the Bride",
+      "track": "This Life",
+      "uri": "spotify:track:4dRqYKhLVujxiBXcq50YzG"
+    },
+    {
+      "artist": "Booker T. & the M.G.'s",
+      "album": "Green Onions",
+      "track": "Green Onions",
+      "uri": "spotify:track:4fQMGlCawbTkH9yPPZ49kP"
+    },
+    {
+      "artist": "Laylow",
+      "album": "L'Étrange Histoire de Mr.Anderson",
+      "track": "SPECIAL (feat. Nekfeu & Fousheé)",
+      "uri": "spotify:track:11HLDMuPD3wh88XHw4udKO"
+    },
+    {
+      "artist": "Lord Esperanza",
+      "album": "Polaroïd",
+      "track": "Sol d'étoiles (feat. Anaïka)",
+      "uri": "spotify:track:2FyG7r71np1EXOe3kIQff9"
+    },
+    {
+      "artist": "Karen O",
+      "album": "Lux Prima",
+      "track": "Lux Prima",
+      "uri": "spotify:track:0A2nyIqL9VGELypstIeNU2"
+    },
+    {
+      "artist": "Vampire Weekend",
+      "album": "Father of the Bride",
+      "track": "2021",
+      "uri": "spotify:track:6UryEVkqPDLliZOG4UmFi9"
+    },
+    {
+      "artist": "ISHA",
+      "album": "La vie augmente, Vol.3",
+      "track": "Magma",
+      "uri": "spotify:track:0NCteI6mVgkwLn8tJ7u7rk"
+    },
+    {
+      "artist": "The Temptations",
+      "album": "Motown's Greatest Hits",
+      "track": "Papa Was A Rollin' Stone",
+      "uri": "spotify:track:0oPgpXk3NDbPd273aaPUiT"
+    },
+    {
+      "artist": "Bakari",
+      "album": "Sur écoute : Saison 3",
+      "track": "TP",
+      "uri": "spotify:track:78zi2jxUEoX2FffxCa2Udg"
+    },
+    {
+      "artist": "The Underachievers",
+      "album": "Evermore - The Art of Duality",
+      "track": "Take Your Place",
+      "uri": "spotify:track:3Slyii7II1jltk0BaXCEKC"
+    },
+    {
+      "artist": "Khalid",
+      "album": "American Teen",
+      "track": "Location",
+      "uri": "spotify:track:152lZdxL1OR0ZMW6KquMif"
+    },
+    {
+      "artist": "Alpha Wann",
+      "album": "UNE MAIN LAVE L'AUTRE",
+      "track": "CASCADE - Remix",
+      "uri": "spotify:track:5MYYSTYXC3rZpymhsRgzrj"
+    },
+    {
+      "artist": "Vampire Weekend",
+      "album": "Father of the Bride",
+      "track": "Jerusalem, New York, Berlin",
+      "uri": "spotify:track:7lQgoAWAFAo0XW7dW2TL1y"
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "album": "Love & Hate",
+      "track": "I'll Never Love",
+      "uri": "spotify:track:6ydqp7i7L6rYbw1TbvzKcH"
+    },
+    {
+      "artist": "Big Thief",
+      "album": "U.F.O.F.",
+      "track": "Open Desert",
+      "uri": "spotify:track:3qq91s3NENmAC3fx4e8fAr"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "LOVE. FEAT. ZACARI.",
+      "uri": "spotify:track:5WkPWduQVV8fh7pppm1fqg"
+    },
+    {
+      "artist": "Vampire Weekend",
+      "album": "Father of the Bride",
+      "track": "How Long?",
+      "uri": "spotify:track:5jd6XPyXSY4jQVG3SlXP1b"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "track": "Movies",
+      "uri": "spotify:track:31LKL7XfxR1PTm6Or9KTKv"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "track": "Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans) - Alternate Take",
+      "uri": "spotify:track:4QrQ1zC1UJW2i3GKbDeNTT"
+    },
+    {
+      "artist": "Charles Bradley",
+      "album": "No Time For Dreaming",
+      "track": "In You (I Found a Love)",
+      "uri": "spotify:track:2Ur42cvseGq9iYr4VbLzX1"
+    },
+    {
+      "artist": "Mac Miller",
+      "album": "Swimming",
+      "track": "Ladders",
+      "uri": "spotify:track:39NDBdU5Xkm5pCFGa5kZtI"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "PRIDE.",
+      "uri": "spotify:track:5AL46kwqlBX7qWP3qUppJe"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "FLIP",
+      "track": "Palpal",
+      "uri": "spotify:track:6wlfwytPmUpzli2ptlD7s9"
+    },
+    {
+      "artist": "The Underachievers",
+      "album": "Evermore - The Art of Duality",
+      "track": "We the Hope",
+      "uri": "spotify:track:2omPURsb24j2bbp3uz0i76"
+    },
+    {
+      "artist": "Orelsan",
+      "album": "La fête est finie",
+      "track": "Tout va bien",
+      "uri": "spotify:track:7gmYDrNYV5AaTEnZo0yhtM"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "BLOOD.",
+      "uri": "spotify:track:3ZFwFe104aquLWAwagKgtg"
+    },
+    {
+      "artist": "Alok",
+      "album": "Love Again (feat. Alida)",
+      "track": "Love Again (feat. Alida)",
+      "uri": "spotify:track:63bWXWGcWnRQvdS8bJWdkB"
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "album": "Love & Hate",
+      "track": "Falling",
+      "uri": "spotify:track:2xTp8WaIipIsNQkTMBUf8G"
+    },
+    {
+      "artist": "Guizmo",
+      "album": "Amicalement Vôtre",
+      "track": "K-2000",
+      "uri": "spotify:track:3uunsUXhKSNYMouUZXt28Q"
+    },
+    {
+      "artist": "Hamza",
+      "album": "Paradise",
+      "track": "Addiction",
+      "uri": "spotify:track:07JqNLmPUJSlcouGQoJlzq"
+    },
+    {
+      "artist": "Noel Gallagher's High Flying Birds",
+      "album": "Who Built The Moon?",
+      "track": "Holy Mountain",
+      "uri": "spotify:track:0wyXUnldyolD7q1jbawZMI"
+    },
+    {
+      "artist": "Big Thief",
+      "album": "U.F.O.F.",
+      "track": "Terminal Paradise",
+      "uri": "spotify:track:5pZu7YdrswKmDhchpJUpmB"
+    },
+    {
+      "artist": "Vampire Weekend",
+      "album": "Father of the Bride",
+      "track": "Hold You Now (feat. Danielle Haim)",
+      "uri": "spotify:track:15E2P2ToSLNnZvcOEQra6a"
+    },
+    {
+      "artist": "Kobo",
+      "album": "Période d'essai",
+      "track": "Baltimore",
+      "uri": "spotify:track:17fBMDdEPkKD9umzeSfPDw"
+    },
+    {
+      "artist": "Ibrahim Maalouf",
+      "album": "Una Rosa Blanca",
+      "track": "Una Rosa Blanca",
+      "uri": "spotify:track:3zQODQVAuZ0aSo8Wwqsp0X"
+    },
+    {
+      "artist": "Hatik",
+      "album": "Chaise pliante",
+      "track": "Abîmé",
+      "uri": "spotify:track:2Ii17hx0K9q6z2tcYINas4"
+    },
+    {
+      "artist": "Angèle",
+      "album": "Nonante-Cinq",
+      "track": "Démons",
+      "uri": "spotify:track:3gAEAmxdP1GIjgQ3Zud2mE"
+    },
+    {
+      "artist": "Swing",
+      "album": "N",
+      "track": "N",
+      "uri": "spotify:track:78MIO0SHPhIh5UbdxrvHxN"
+    },
+    {
+      "artist": "Guizmo",
+      "album": "Amicalement Vôtre",
+      "track": "Je n'ai plus peur de me souvenir",
+      "uri": "spotify:track:1N4xTjUAltOZSPLTFcyq4d"
+    },
+    {
+      "artist": "XXXTENTACION",
+      "album": "17",
+      "track": "Jocelyn Flores",
+      "uri": "spotify:track:7m9OqQk4RVRkw9JJdeAw96"
+    },
+    {
+      "artist": "Vald",
+      "album": "V",
+      "track": "Un mot",
+      "uri": "spotify:track:2OtS79y1U6ZbuHkP4AzFs0"
+    },
+    {
+      "artist": "Hatik",
+      "album": "Chaise pliante",
+      "track": "Welcome",
+      "uri": "spotify:track:1VmWfby8vwLTGPP99WtEAX"
+    },
+    {
+      "artist": "Drake",
+      "album": "Scorpion",
+      "track": "Mob Ties",
+      "uri": "spotify:track:7rC5Pl8rQSX4myONQHYPBK"
+    },
+    {
+      "artist": "Nekfeu",
+      "album": "Les étoiles vagabondes : expansion",
+      "track": "Elle pleut",
+      "uri": "spotify:track:4kqsT3yDyJr1KZ2AkM9qfD"
+    },
+    {
+      "artist": "Alpha Wann",
+      "album": "don dada mixtape vol 1",
+      "track": "apdl",
+      "uri": "spotify:track:2426aLyQtNWXLSp7JgBjJO"
+    },
+    {
+      "artist": "Kodak Black",
+      "album": "If I'm Lyin, I'm Flyin",
+      "track": "If I'm Lyin, I'm Flyin",
+      "uri": "spotify:track:2uMTscYuCT3BZ0OCzH3MwN"
+    },
+    {
+      "artist": "Benjamin Epps",
+      "album": "Zidane en 2006",
+      "track": "Zidane en 2006",
+      "uri": "spotify:track:5sLcZy13aN3UF3fC1GNj7I"
+    },
+    {
+      "artist": "RÜFÜS DU SOL",
+      "album": "Bloom",
+      "track": "Innerbloom",
+      "uri": "spotify:track:0KiAgTHemp1tC2ryqWsOSI"
+    },
+    {
+      "artist": "Khalid",
+      "album": "American Teen",
+      "track": "Young Dumb & Broke",
+      "uri": "spotify:track:5Z3GHaZ6ec9bsiI5BenrbY"
+    },
+    {
+      "artist": "Injury Reserve",
+      "album": "Injury Reserve",
+      "track": "Best Spot in the House",
+      "uri": "spotify:track:1NmVaOMhftw2jZaE1KTk1p"
+    },
+    {
+      "artist": "J. Cole",
+      "album": "KOD",
+      "track": "Kevin’s Heart",
+      "uri": "spotify:track:6tZ3b7ik1QDXFAZlXib0YZ"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "track": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "uri": "spotify:track:4vLYewWIvqHfKtJDk8c8tq"
+    },
+    {
+      "artist": "Arma Jackson",
+      "album": "Capsules",
+      "track": "Oh my gad",
+      "uri": "spotify:track:5qiJ7EmjwnNT7l7fn8MbUi"
+    },
+    {
+      "artist": "Gringe",
+      "album": "Enfant lune",
+      "track": "Qui dit mieux (feat. Orelsan, Vald & Suikon Blaz AD)",
+      "uri": "spotify:track:0sMzxVIRUbQBtOPTCBITUS"
+    },
+    {
+      "artist": "Lala &ce",
+      "album": "Everything Tasteful",
+      "track": "Sous tes lèvres",
+      "uri": "spotify:track:2KOzJ1jVqmUPSRBCYqhwWu"
+    },
+    {
+      "artist": "Buddy",
+      "album": "Harlan & Alondra",
+      "track": "Black (feat. A$AP Ferg)",
+      "uri": "spotify:track:5MYtu5scs1iz02AVLPLKJc"
+    },
+    {
+      "artist": "Dusty Springfield",
+      "album": "The Best Of Dusty Springfield - Green Series",
+      "track": "Son Of A Preacher Man",
+      "uri": "spotify:track:3zRliQqUlisnnl3BguDkZM"
+    },
+    {
+      "artist": "Noel Gallagher's High Flying Birds",
+      "album": "Who Built The Moon?",
+      "track": "It’s A Beautiful World",
+      "uri": "spotify:track:4tSODQyi9mdoXeDO5GI8KJ"
+    },
+    {
+      "artist": "Rihanna",
+      "album": "ANTI",
+      "track": "Love On The Brain",
+      "uri": "spotify:track:31adnbEEiHwy6DDQ82F3HP"
+    },
+    {
+      "artist": "Drake",
+      "album": "Scorpion",
+      "track": "Mob Ties",
+      "uri": "spotify:track:7txPE73wHbuXYkM1h8zNrG"
+    },
+    {
+      "artist": "Lord Esperanza",
+      "album": "Drapeau Noir",
+      "track": "Danse avec les ombres",
+      "uri": "spotify:track:54Oma9pncaHqEVQL0xvOfq"
+    },
+    {
+      "artist": "Georgio",
+      "album": "XX5",
+      "track": "Aujourd'hui",
+      "uri": "spotify:track:6RlawuXisExVHBzEqayrvS"
+    },
+    {
+      "artist": "Oxmo Puccino",
+      "album": "Le cactus de Sibérie",
+      "track": "Le cactus de Sibérie - Remasterisé",
+      "uri": "spotify:track:4Qry9MfhorlRZdDlXdIQJ8"
+    },
+    {
+      "artist": "YG",
+      "album": "4REAL 4REAL",
+      "track": "Stop Snitchin (feat. DaBaby) - Remix",
+      "uri": "spotify:track:4rbYZZkMTz1TTty0if3oRv"
+    },
+    {
+      "artist": "Richard Wagner",
+      "album": "Wagner: Lohengrin, WWV 75, Prelude To Act I",
+      "track": "Lohengrin, WWV 75: Prelude to Act I - Live",
+      "uri": "spotify:track:3LxkwDvrINDp9GvgStLTtK"
+    },
+    {
+      "artist": "Le Roi Angus",
+      "album": "Est-ce que tu vois le tigre ?",
+      "track": "La wax",
+      "uri": "spotify:track:4Nclo8xnQeuX54AGKOybbM"
+    },
+    {
+      "artist": "Hamza",
+      "album": "140 BPM 2",
+      "track": "PTSD",
+      "uri": "spotify:track:13ZsYnnX3ZVsbjwiPMnr2y"
+    },
+    {
+      "artist": "Ariana Grande",
+      "album": "thank u, next",
+      "track": "7 rings",
+      "uri": "spotify:track:6ocbgoVGwYJhOv1GgI9NsF"
+    },
+    {
+      "artist": "Jacques Brel",
+      "album": "La Valse A Mille Temps (Vol.4)",
+      "track": "Ne me quitte pas",
+      "uri": "spotify:track:6IRA4KOVbtiGiTdYoEThJN"
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "album": "SR3MM",
+      "track": "Perplexing Pegasus - From SR3MM",
+      "uri": "spotify:track:1ung2kajpw24AaHjBtPY3j"
+    },
+    {
+      "artist": "Daniel Caesar",
+      "album": "Who Hurt You?",
+      "track": "Who Hurt You?",
+      "uri": "spotify:track:23c9gmiiv7RCu7twft0Mym"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Oxnard",
+      "track": "Anywhere (feat. Snoop Dogg & The Last Artful, Dodgr)",
+      "uri": "spotify:track:79bjdsc7XYzde5PqlvdFrO"
+    },
+    {
+      "artist": "Radiohead",
+      "album": "Kid A",
+      "track": "How To Disappear Completely",
+      "uri": "spotify:track:69pwmeyvQMuHMtkCmpEWhQ"
+    },
+    {
+      "artist": "A2h",
+      "album": "L'amour",
+      "track": "Blues",
+      "uri": "spotify:track:15FcAu7H2BOHnYb6bEMShm"
+    },
+    {
+      "artist": "Young Thug",
+      "album": "The London (feat. J. Cole & Travis Scott)",
+      "track": "The London (feat. J. Cole & Travis Scott)",
+      "uri": "spotify:track:7DcvwMAiqKJQD1rrdfxSDx"
+    },
+    {
+      "artist": "YG",
+      "album": "4REAL 4REAL",
+      "track": "I Was On The Block (feat. Valee, Boogie)",
+      "uri": "spotify:track:5Eg7NBrJKmyn22nPVaft0E"
+    },
+    {
+      "artist": "Jacob Banks",
+      "album": "The Boy Who Cried Freedom",
+      "track": "Photograph",
+      "uri": "spotify:track:7l5IlmqIJNMKpQgrHKGQN0"
+    },
+    {
+      "artist": "Buddy",
+      "album": "Harlan & Alondra (Deluxe)",
+      "track": "Black (feat. A$AP Ferg)",
+      "uri": "spotify:track:19sohOPZDcUPxSvVvy97Nb"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "FLIP",
+      "track": "Ray Liotta",
+      "uri": "spotify:track:1rEjb7MDmNfWvdmUFZr56a"
+    },
+    {
+      "artist": "Hamza",
+      "album": "Paradise",
+      "track": "Audemars Shit",
+      "uri": "spotify:track:23C92tGAEx3hJhs5IVq84F"
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "album": "Love & Hate",
+      "track": "The Final Frame",
+      "uri": "spotify:track:158XE82JM5v2PpZEN5RjhB"
+    },
+    {
+      "artist": "Susan Tedeschi",
+      "album": "Hope And Desire",
+      "track": "You Got The Silver",
+      "uri": "spotify:track:5jQPaMjSWpFOMx8BVUOtpM"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "IGOR",
+      "track": "EXACTLY WHAT YOU RUN FROM YOU END UP CHASING",
+      "uri": "spotify:track:5e4LIAQI0bClLazNf2gZV0"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "LOYALTY. FEAT. RIHANNA.",
+      "uri": "spotify:track:7zjRBaNkVjk1vZ8JqxQIXO"
+    },
+    {
+      "artist": "Domenico Modugno",
+      "album": "Domenico Modugno",
+      "track": "Vecchio frack",
+      "uri": "spotify:track:0rHIXD2GmjixirvBfTUV2b"
+    },
+    {
+      "artist": "Khalid",
+      "album": "American Teen",
+      "track": "Coaster",
+      "uri": "spotify:track:39KG4kom3enSx4GTThuDGt"
+    },
+    {
+      "artist": "Vampire Weekend",
+      "album": "Father of the Bride",
+      "track": "Flower Moon (feat. Steve Lacy)",
+      "uri": "spotify:track:3ujuDsiyBLAXAB6dtNwpGu"
+    },
+    {
+      "artist": "Jok'air",
+      "album": "Jok'Travolta",
+      "track": "Nos souvenirs (feat. Chilla & Yseult)",
+      "uri": "spotify:track:3V7BEQHVDEoAA5G7kSxLgS"
+    },
+    {
+      "artist": "Vampire Weekend",
+      "album": "Father of the Bride",
+      "track": "Married in a Gold Rush (feat. Danielle Haim)",
+      "uri": "spotify:track:4Ww4jdVXTyvSnryNTtReRJ"
+    },
+    {
+      "artist": "Guizmo",
+      "album": "Amicalement Vôtre",
+      "track": "Escort Girl",
+      "uri": "spotify:track:7MsD44JHNvLm8FuONZtYj5"
+    },
+    {
+      "artist": "Orelsan",
+      "album": "La fête est finie",
+      "track": "Défaite de famille",
+      "uri": "spotify:track:0IvTKTST66tq30ZeFWeqfm"
+    },
+    {
+      "artist": "Idir",
+      "album": "Compile Kabyle",
+      "track": "Ssendu",
+      "uri": "spotify:track:41nNPlCTNmJHXU93a7hG36"
+    },
+    {
+      "artist": "Guizmo",
+      "album": "Amicalement Vôtre",
+      "track": "Je m'en rappelle",
+      "uri": "spotify:track:64aNsmfJLawFuEgWzIrlGm"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "IGOR",
+      "track": "EARFQUAKE",
+      "uri": "spotify:track:5hVghJ4KaYES3BFUATCYn0"
+    },
+    {
+      "artist": "Jay Rock",
+      "album": "Redemption",
+      "track": "Shit Real (feat. Tee Grizzley)",
+      "uri": "spotify:track:2v54cdlUANmBDwrHJ1MebE"
+    },
+    {
+      "artist": "Dave",
+      "album": "PSYCHODRAMA",
+      "track": "Streatham",
+      "uri": "spotify:track:59PUOc7B0WCNNx8Nr4qaA4"
+    },
+    {
+      "artist": "Elijah Blake",
+      "album": "Audiology",
+      "track": "Technicolor",
+      "uri": "spotify:track:4xKnbbj6bFA3QOLU9gk6m0"
+    },
+    {
+      "artist": "Injury Reserve",
+      "album": "Injury Reserve",
+      "track": "Three Man Weave",
+      "uri": "spotify:track:7L4AtavGZEEDkVw1E0mDYn"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "IGOR",
+      "track": "ARE WE STILL FRIENDS?",
+      "uri": "spotify:track:5TxRUOsGeWeRl3xOML59Ai"
+    },
+    {
+      "artist": "George Michael",
+      "album": "Ladies And Gentlemen... The Best Of George Michael",
+      "track": "Careless Whisper",
+      "uri": "spotify:track:4jDmJ51x1o9NZB5Nxxc7gY"
+    },
+    {
+      "artist": "S.Pri Noir",
+      "album": "Masque blanc",
+      "track": "Finesse",
+      "uri": "spotify:track:4Sdq9PV5f72L7nWjQUNmFs"
+    },
+    {
+      "artist": "Sofiane Pamart",
+      "album": "La Havane",
+      "track": "La Havane",
+      "uri": "spotify:track:4gRrAwPFlaVAf1ZqgaP5TJ"
+    },
+    {
+      "artist": "Injury Reserve",
+      "album": "Injury Reserve",
+      "track": "Jailbreak the Tesla (Feat. Aminé)",
+      "uri": "spotify:track:7w0YG5qn9w8LYA4tHpQe0o"
+    },
+    {
+      "artist": "Guizmo",
+      "album": "Amicalement Vôtre",
+      "track": "Pardon",
+      "uri": "spotify:track:7qwwv9e0HXOzx8G3lqqawE"
+    },
+    {
+      "artist": "Disiz",
+      "album": "Disizilla",
+      "track": "Tout partira",
+      "uri": "spotify:track:5QDXErWytqHuiFAlt3VcvJ"
+    },
+    {
+      "artist": "Justin Timberlake",
+      "album": "The 20/20 Experience (Deluxe Version)",
+      "track": "Mirrors",
+      "uri": "spotify:track:4rHZZAmHpZrA3iH5zx8frV"
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "album": "Love & Hate",
+      "track": "Love & Hate",
+      "uri": "spotify:track:5q0gPpBVNNusEenuXo3hw3"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "FLIP",
+      "track": "Pommade",
+      "uri": "spotify:track:4Otx4QWrnpY9HScApgT49A"
+    },
+    {
+      "artist": "Khalid",
+      "album": "Free Spirit",
+      "track": "Bluffin'",
+      "uri": "spotify:track:42w7pX3r1TpLR0i55Ek5ND"
+    },
+    {
+      "artist": "Elijah Blake",
+      "album": "Audiology",
+      "track": "Crazy",
+      "uri": "spotify:track:1WE0DYDCX0gKG9trAI1TJR"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "track": "Stella By Starlight (feat. John Coltrane & Bill Evans)",
+      "uri": "spotify:track:4zxd4tiXPlWMqoJltbVTbE"
+    },
+    {
+      "artist": "Elijah Blake",
+      "album": "Audiology",
+      "track": "Move Me",
+      "uri": "spotify:track:494cWWsifODL5IaCSQXeon"
+    },
+    {
+      "artist": "Georgio",
+      "album": "XX5",
+      "track": "Hier",
+      "uri": "spotify:track:1ZJQqzevvPnSRwEL6uW4RJ"
+    },
+    {
+      "artist": "Portishead",
+      "album": "Dummy",
+      "track": "Glory Box",
+      "uri": "spotify:track:3Ty7OTBNSigGEpeW2PqcsC"
+    },
+    {
+      "artist": "6LACK",
+      "album": "East Atlanta Love Letter",
+      "track": "Pretty Little Fears (feat. J. Cole)",
+      "uri": "spotify:track:4at3d5QWnlibMVN75ECDrp"
+    },
+    {
+      "artist": "Myth Syzer",
+      "album": "Bisous",
+      "track": "Sans toi",
+      "uri": "spotify:track:0iIz6vVDp7bPxP639Ro6FC"
+    },
+    {
+      "artist": "Nekfeu",
+      "album": "Les étoiles vagabondes : expansion",
+      "track": "Ciel noir",
+      "uri": "spotify:track:31uIcE1TppvHBGNgTGYXO1"
+    },
+    {
+      "artist": "Hatik",
+      "album": "Chaise pliante",
+      "track": "La lune",
+      "uri": "spotify:track:21YNG4gRAus2feTlvjsNLS"
+    },
+    {
+      "artist": "De La Soul",
+      "album": "Rare RnB vol 1",
+      "track": "All Good",
+      "uri": "spotify:track:7tQvkhIR24mWvT73mPi4sd"
+    },
+    {
+      "artist": "Guizmo",
+      "album": "Amicalement Vôtre",
+      "track": "Noyé dans mes rêves",
+      "uri": "spotify:track:6kIBwQRuP4S6TagLlMB6xL"
+    },
+    {
+      "artist": "21 Savage",
+      "album": "i am > i was",
+      "track": "a lot",
+      "uri": "spotify:track:2t8yVaLvJ0RenpXUIAC52d"
+    },
+    {
+      "artist": "Dave",
+      "album": "PSYCHODRAMA",
+      "track": "Psycho",
+      "uri": "spotify:track:0FWAIRd9Uz5uNek7cALYNC"
+    },
+    {
+      "artist": "Miley Cyrus",
+      "album": "Plastic Hearts",
+      "track": "Midnight Sky",
+      "uri": "spotify:track:4i2qxFEVVUi8yOYoxB8TCX"
+    },
+    {
+      "artist": "Brenton Wood",
+      "album": "The Very Best Of",
+      "track": "The Oogum Boogum Song",
+      "uri": "spotify:track:7fp41IDi1dqARoX0Nuvz5O"
+    },
+    {
+      "artist": "Aretha Franklin",
+      "album": "More Gospel Greats",
+      "track": "People Get Ready",
+      "uri": "spotify:track:1GPIF0zDGMKFUuOjcFAS7Z"
+    },
+    {
+      "artist": "Elijah Blake",
+      "album": "Audiology",
+      "track": "When It's Magic",
+      "uri": "spotify:track:0qUa2wJ1ZeKubWii5119wI"
+    },
+    {
+      "artist": "Guizmo",
+      "album": "Amicalement Vôtre",
+      "track": "Je n'sais pas quand ça finira..",
+      "uri": "spotify:track:4X4CRJX3hqmPJDLNzl4sPP"
+    },
+    {
+      "artist": "FKA twigs",
+      "album": "CAPRISONGS",
+      "track": "tears in the club (feat. the weeknd)",
+      "uri": "spotify:track:1GsSM1Fju5J1Fsu51jEsTg"
+    },
+    {
+      "artist": "Jimi Hendrix",
+      "album": "Electric Ladyland",
+      "track": "All Along the Watchtower",
+      "uri": "spotify:track:2aoo2jlRnM3A0NyLQqMN2f"
+    },
+    {
+      "artist": "Orelsan",
+      "album": "La fête est finie - EPILOGUE",
+      "track": "Rêves bizarres (feat. Damso)",
+      "uri": "spotify:track:7lhuM9WUqdThw72dCBRmQW"
+    },
+    {
+      "artist": "Injury Reserve",
+      "album": "Injury Reserve",
+      "track": "Koruna & Lime (Feat. A-Trak)",
+      "uri": "spotify:track:3977oy5kwFbW4zLR8NmhjN"
+    },
+    {
+      "artist": "Charles Bradley",
+      "album": "No Time For Dreaming",
+      "track": "I Believe In Your Love",
+      "uri": "spotify:track:3Tp4Ej34cGyMOWF6p5CjNj"
+    },
+    {
+      "artist": "Zola",
+      "album": "Cicatrices",
+      "track": "Ouais ouais",
+      "uri": "spotify:track:7ygA08T4t49ZhaOtCHsktS"
+    },
+    {
+      "artist": "Khalid",
+      "album": "American Teen",
+      "track": "Angels",
+      "uri": "spotify:track:67kXYrMTQbS7MVbXyGyxHm"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "track": "All Blues - Studio Sequence",
+      "uri": "spotify:track:7FA0qrw667jTZR3wNcITQE"
+    },
+    {
+      "artist": "Noel Gallagher's High Flying Birds",
+      "album": "Who Built The Moon?",
+      "track": "End Credits (Wednesday Part 2)",
+      "uri": "spotify:track:1nd2fibXyF4NI1sYvQwaDG"
+    },
+    {
+      "artist": "Phil Collins",
+      "album": "...But Seriously",
+      "track": "Another Day in Paradise - 2016 Remaster",
+      "uri": "spotify:track:1NCuYqMc8hKMb4cpNTcJbD"
+    },
+    {
+      "artist": "The Underachievers",
+      "album": "Evermore - The Art of Duality",
+      "track": "Moon Shot",
+      "uri": "spotify:track:6IS8xPOBa1tHI2fQYUSw14"
+    },
+    {
+      "artist": "The Weeknd",
+      "album": "Blinding Lights",
+      "track": "Blinding Lights",
+      "uri": "spotify:track:0sf12qNH5qcw8qpgymFOqD"
+    },
+    {
+      "artist": "Cesária Evora",
+      "album": "Miss Perfumado",
+      "track": "Sodade",
+      "uri": "spotify:track:7xzMrUmlooPa1Fmp88hlYc"
+    },
+    {
+      "artist": "Superpoze",
+      "album": "For We the Living",
+      "track": "Thousand Exploding Suns",
+      "uri": "spotify:track:5bgxe0L0zVe7KSC2IzENGZ"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "album": "Origins",
+      "track": "Burn Out",
+      "uri": "spotify:track:5Q7zuH8VNu7aLappSusPu6"
+    },
+    {
+      "artist": "Lafayette Afro Rock Band",
+      "album": "Malik",
+      "track": "Darkest Light - Remastered",
+      "uri": "spotify:track:72mudXRDKdCxUu0He3W6H6"
+    },
+    {
+      "artist": "Khalid",
+      "album": "American Teen",
+      "track": "Winter",
+      "uri": "spotify:track:4V3VshJLUTCIWa77YiAkvM"
+    },
+    {
+      "artist": "Orelsan",
+      "album": "La fête est finie",
+      "track": "Quand est-ce que ça s'arrête",
+      "uri": "spotify:track:4oj5EhSEKKpxG3R34btLta"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "XXX. FEAT. U2.",
+      "uri": "spotify:track:73HCBO1XCKxNMTZLTFgs8A"
+    },
+    {
+      "artist": "Dinos",
+      "album": "NAUTILUS",
+      "track": "Prozac",
+      "uri": "spotify:track:5WKsgMHC0YS0u8UeSLvia7"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Negro Swan",
+      "track": "Saint",
+      "uri": "spotify:track:2PzWUwFXApjQBZzKMl4Hd6"
+    },
+    {
+      "artist": "Jacob Banks",
+      "album": "The Boy Who Cried Freedom",
+      "track": "Chainsmoking",
+      "uri": "spotify:track:0rJvUwxB1esg9YYrIt4pZV"
+    },
+    {
+      "artist": "Labrinth",
+      "album": "Mount Everest",
+      "track": "Mount Everest",
+      "uri": "spotify:track:18wCJcoFmXZ0jfrFhF6cYS"
+    },
+    {
+      "artist": "Khalid",
+      "album": "American Teen",
+      "track": "American Teen",
+      "uri": "spotify:track:312WNtMs3F28cUukaPY9bo"
+    },
+    {
+      "artist": "J. Cole",
+      "album": "KOD",
+      "track": "Window Pain - Outro",
+      "uri": "spotify:track:5Lgqu1th1KqlG97OF2gWGe"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "FLIP",
+      "track": "Malaise",
+      "uri": "spotify:track:2pfQpym5WNrEJByGkwfSVZ"
+    },
+    {
+      "artist": "Laylow",
+      "album": "L'Étrange Histoire de Mr.Anderson",
+      "track": "LOST FOREST",
+      "uri": "spotify:track:1SWNxL41LgHnQNu9hFkHGY"
+    },
+    {
+      "artist": "Pomme",
+      "album": "J'suis pas dupe",
+      "track": "J'suis pas dupe",
+      "uri": "spotify:track:7rUT5RfFxINwdJbymL5IGe"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "FLIP",
+      "track": "Ça compte pas",
+      "uri": "spotify:track:08zXH97txz81Jb5DEp18oF"
+    },
+    {
+      "artist": "Dave",
+      "album": "PSYCHODRAMA",
+      "track": "Purple Heart",
+      "uri": "spotify:track:2HUW8dnie8O8JkDzbo7Ivs"
+    },
+    {
+      "artist": "Zola",
+      "album": "Cicatrices",
+      "track": "Baby Boy",
+      "uri": "spotify:track:1DEkiMSnnYqj69ubNFD2ya"
+    },
+    {
+      "artist": "Yellow Days",
+      "album": "Harmless Melodies",
+      "track": "Gap in the Clouds",
+      "uri": "spotify:track:7l5j3FapCyr6HxUgoAynM2"
+    },
+    {
+      "artist": "Columbine",
+      "album": "Temps électrique",
+      "track": "Temps électrique",
+      "uri": "spotify:track:1ukIzTToClMul7FuuwlwrN"
+    },
+    {
+      "artist": "The Underachievers",
+      "album": "Evermore - The Art of Duality",
+      "track": "Star Signs",
+      "uri": "spotify:track:5zlYDz58SvcIy3I9kVycgy"
+    },
+    {
+      "artist": "Mc Don Juan",
+      "album": "Amar Amei",
+      "track": "Amar Amei",
+      "uri": "spotify:track:1kNVJQEkobOlyfbctPZ4fs"
+    },
+    {
+      "artist": "Josman",
+      "album": "000$",
+      "track": "MEGAZORD",
+      "uri": "spotify:track:4gAoDBOFPEprMm7Nch7Xdj"
+    },
+    {
+      "artist": "Khalid",
+      "album": "Free Spirit",
+      "track": "Paradise",
+      "uri": "spotify:track:6fOOKqQWcSy33ApU1wqkkW"
+    },
+    {
+      "artist": "The Game",
+      "album": "The Documentary",
+      "track": "Hate It Or Love It",
+      "uri": "spotify:track:2wGSgTmgSF3xjRrHkTc25R"
+    },
+    {
+      "artist": "Noel Gallagher's High Flying Birds",
+      "album": "Who Built The Moon?",
+      "track": "Black & White Sunshine",
+      "uri": "spotify:track:6beA8ZRmfvdOxo0wvBOHMG"
+    },
+    {
+      "artist": "Dave",
+      "album": "PSYCHODRAMA",
+      "track": "Voices",
+      "uri": "spotify:track:3un8AsY9s9YyEv2tqTrxVv"
+    },
+    {
+      "artist": "Jacob Banks",
+      "album": "The Boy Who Cried Freedom",
+      "track": "Unholy War",
+      "uri": "spotify:track:2KVHvGnspBOlR9l86NNXec"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "track": "Blue in Green (feat. John Coltrane & Bill Evans)",
+      "uri": "spotify:track:0aWMVrwxPNYkKmFthzmpRi"
+    },
+    {
+      "artist": "Tame Impala",
+      "album": "Lonerism",
+      "track": "Feels Like We Only Go Backwards",
+      "uri": "spotify:track:6vTtMyCg96xwpoIBws9K0Q"
+    },
+    {
+      "artist": "Dirty Projectors",
+      "album": "Lamp Lit Prose",
+      "track": "Right Now",
+      "uri": "spotify:track:6HwBQrKyoBIEA2Pmt4h37D"
+    },
+    {
+      "artist": "Charles Bradley",
+      "album": "No Time For Dreaming",
+      "track": "Heartaches and Pain",
+      "uri": "spotify:track:0ntPwZuJ7ChJzKd1xDcbgg"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "track": "Love For Sale",
+      "uri": "spotify:track:66vrjgMvWOLyeKBuMGA0Cz"
+    },
+    {
+      "artist": "RK",
+      "album": "Insolent",
+      "track": "Bae",
+      "uri": "spotify:track:5as5HurTt4u7BuFIT5j8am"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "track": "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "uri": "spotify:track:5o3DSHw1ORhM3lWxqGRvEf"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "IGOR",
+      "track": "I THINK",
+      "uri": "spotify:track:4f8Mh5wuWHOsfXtzjrJB3t"
+    },
+    {
+      "artist": "Elijah Blake",
+      "album": "Audiology",
+      "track": "Secret Love",
+      "uri": "spotify:track:03qcGUCm0C0fauwx7s7qfR"
+    },
+    {
+      "artist": "Khalid",
+      "album": "Free Spirit",
+      "track": "Twenty One",
+      "uri": "spotify:track:1NgCWYuBLfqBDA3b8MgSVU"
+    },
+    {
+      "artist": "Ibeyi",
+      "album": "Ash",
+      "track": "Transmission/Michaelion",
+      "uri": "spotify:track:7pyAxFocproIWOlwWG1gf5"
+    },
+    {
+      "artist": "Charles Bradley",
+      "album": "No Time For Dreaming",
+      "track": "Stay Away",
+      "uri": "spotify:track:5vE5RTY7KPaarso26QiPMW"
+    },
+    {
+      "artist": "Swing",
+      "album": "Gris",
+      "track": "Gris",
+      "uri": "spotify:track:2PyO96FvZwQnOWRIDElNl3"
+    },
+    {
+      "artist": "Busta Rhymes",
+      "album": "It Ain't Safe No More. . .",
+      "track": "I Know What You Want (feat. Flipmode Squad)",
+      "uri": "spotify:track:0YImOCkIJ2PWhCXaURCZnY"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "FLIP",
+      "track": "Outsider",
+      "uri": "spotify:track:7mu81k6fspcDbA2uvU5cas"
+    },
+    {
+      "artist": "The Underachievers",
+      "album": "Evermore - The Art of Duality",
+      "track": "Illusions",
+      "uri": "spotify:track:6yLCRF0yblG4fEI7ouZoTE"
+    },
+    {
+      "artist": "Muddy Monk",
+      "album": "Longue Ride",
+      "track": "Si l'on ride",
+      "uri": "spotify:track:0sPzjBGT4gUMOdHylDyAi1"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "IGOR",
+      "track": "I DON'T LOVE YOU ANYMORE",
+      "uri": "spotify:track:5A0M6B0RBSXSNWv0wcppZ9"
+    },
+    {
+      "artist": "YG",
+      "album": "4REAL 4REAL",
+      "track": "Play Too Much (feat. SAFE)",
+      "uri": "spotify:track:4WMJQOTXMeBtVCj5YIKcgU"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "track": "Nearer to Thee",
+      "uri": "spotify:track:5OO83w7lBotutTG5SYP6s2"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "track": "Blue in Green - Studio Sequence",
+      "uri": "spotify:track:4S0JzmCCQjaRjbPfIF6JV1"
+    },
+    {
+      "artist": "Hamza",
+      "album": "Paradise",
+      "track": "Mac & Cheese",
+      "uri": "spotify:track:1Y4pKTMVFFWDaXRtOeDoih"
+    },
+    {
+      "artist": "Boston Cello Quartet",
+      "album": "Pictures",
+      "track": "The Marriage of Figaro, Overture in D Major K.492",
+      "uri": "spotify:track:47IXqWE85tRqW3G08A3FrC"
+    },
+    {
+      "artist": "YG",
+      "album": "4REAL 4REAL",
+      "track": "Stop Snitchin",
+      "uri": "spotify:track:5IjRKZlpKVBBRn0COL7pik"
+    },
+    {
+      "artist": "Big Thief",
+      "album": "U.F.O.F.",
+      "track": "Betsy",
+      "uri": "spotify:track:3YWje5qpVVfsTryReMOWWB"
+    },
+    {
+      "artist": "Swedish House Mafia",
+      "album": "Moth To A Flame",
+      "track": "Moth To A Flame (with The Weeknd)",
+      "uri": "spotify:track:2gpWyfu7eZ01zzncHpxOtA"
+    },
+    {
+      "artist": "Childish Gambino",
+      "album": "Camp",
+      "track": "Kids",
+      "uri": "spotify:track:3GPHrGUysobnuvwKJ452TY"
+    },
+    {
+      "artist": "Frenetik",
+      "album": "Brouillon",
+      "track": "Trafic",
+      "uri": "spotify:track:5cm0qYBZfeq89LcoCwcQFu"
+    },
+    {
+      "artist": "Hamza",
+      "album": "Santa Sauce 2",
+      "track": "God Bless (feat. Damso)",
+      "uri": "spotify:track:2oT2g4vkjRaFOcUtdOf9eg"
+    },
+    {
+      "artist": "Lefa",
+      "album": "Bitch (feat. Vald)",
+      "track": "Bitch (feat. Vald)",
+      "uri": "spotify:track:65hdAdd1skq94ecWH4vfJI"
+    },
+    {
+      "artist": "Tame Impala",
+      "album": "Currents",
+      "track": "The Less I Know The Better",
+      "uri": "spotify:track:6K4t31amVTZDgR3sKmwUJJ"
+    },
+    {
+      "artist": "J. Cole",
+      "album": "KOD",
+      "track": "FRIENDS (feat. kiLL edward)",
+      "uri": "spotify:track:6onwlDmIVKE8bBgyBRSuS0"
+    },
+    {
+      "artist": "Injury Reserve",
+      "album": "Injury Reserve",
+      "track": "GTFU (Feat. JPEGMAFIA & Cakes da Killa)",
+      "uri": "spotify:track:1zDP39VH6WDVmbydzinxQr"
+    },
+    {
+      "artist": "Laylow",
+      "album": "L'Étrange Histoire de Mr.Anderson",
+      "track": "R9R-LINE (feat. Damso)",
+      "uri": "spotify:track:4QoZVMhE66MDCd0igG0hd6"
+    },
+    {
+      "artist": "Léo Ferré",
+      "album": "Thank You Ferre",
+      "track": "Avec le temps",
+      "uri": "spotify:track:40vzD8a9bRImTVhOjD6Sxo"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "HUMBLE.",
+      "uri": "spotify:track:7ujx3NYtwO2LkmKGz59mXp"
+    },
+    {
+      "artist": "Jacques Brel",
+      "album": "15 Ans D'Amour",
+      "track": "La chanson des vieux amants",
+      "uri": "spotify:track:2nn7R5ESQhN5MhWcrHFjLi"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "IGOR",
+      "track": "A BOY IS A GUN*",
+      "uri": "spotify:track:1nXZnTALNXiPlvXotqHm66"
+    },
+    {
+      "artist": "Guizmo",
+      "album": "Amicalement Vôtre",
+      "track": "Les Gens parlent d'amour",
+      "uri": "spotify:track:1Xr6TpFlkxnsi2kfgHbffh"
+    },
+    {
+      "artist": "The Avener",
+      "album": "Fade Out Lines",
+      "track": "Fade Out Lines - The Avener Rework",
+      "uri": "spotify:track:1CleP0jioi374d3PSt1PrJ"
+    },
+    {
+      "artist": "Elijah Blake",
+      "album": "Audiology",
+      "track": "Rendezvous",
+      "uri": "spotify:track:7jUXp6FRUECqvGY1oVvVkO"
+    },
+    {
+      "artist": "Noel Gallagher's High Flying Birds",
+      "album": "Who Built The Moon?",
+      "track": "Be Careful What You Wish For",
+      "uri": "spotify:track:0r0jtNlTqpYC1OeBib9nRM"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "track": "Freddie Freeloader - Studio Sequence 1",
+      "uri": "spotify:track:0OYCtl0lZeteFq2sIZbCHf"
+    },
+    {
+      "artist": "Ibeyi",
+      "album": "Ash",
+      "track": "No Man Is Big Enough for My Arms",
+      "uri": "spotify:track:3nPOISgqtO1hl7nNxAZi7K"
+    },
+    {
+      "artist": "The Doors",
+      "album": "The Soft Parade",
+      "track": "Touch Me",
+      "uri": "spotify:track:4BVE5tIIpYabZcYCbephNW"
+    },
+    {
+      "artist": "Khalid",
+      "album": "Free Spirit",
+      "track": "Alive",
+      "uri": "spotify:track:12VqHHz4wvVcnEdSivjLeQ"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "FLIP",
+      "track": "Lucy",
+      "uri": "spotify:track:7Gu0q42NdAyJHcjrJ56apH"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "track": "Flamenco Sketches - Studio Sequence 1",
+      "uri": "spotify:track:745roqGwMrDnjNO1S3Q5ex"
+    },
+    {
+      "artist": "Karen O",
+      "album": "Lux Prima",
+      "track": "Ministry",
+      "uri": "spotify:track:7qcmuxVCAxLLC3xI7BulG8"
+    },
+    {
+      "artist": "Jimi Hendrix",
+      "album": "Axis: Bold As Love",
+      "track": "Little Wing",
+      "uri": "spotify:track:1Eolhana7nKHYpcYpdVcT5"
+    },
+    {
+      "artist": "Mac Miller",
+      "album": "Swimming",
+      "track": "Come Back to Earth",
+      "uri": "spotify:track:01z2fBGB8Hl3Jd3zXe4IXR"
+    },
+    {
+      "artist": "Nefaste",
+      "album": "Auto péta",
+      "track": "Auto péta",
+      "uri": "spotify:track:5hukdKGMV65I0uLJCbJO7L"
+    },
+    {
+      "artist": "Richard Hell",
+      "album": "Blank Generation (40th Anniversary Deluxe Edition)",
+      "track": "Blank Generation - 2017 Remaster Audio; Remastered",
+      "uri": "spotify:track:3HYQpVq7vGOZKaNHZn50uc"
+    },
+    {
+      "artist": "Noel Gallagher's High Flying Birds",
+      "album": "Who Built The Moon?",
+      "track": "Dead In The Water (Live at RTÉ 2FM Studios, Dublin) - Live at Rte 2FM Studios, Dublin",
+      "uri": "spotify:track:6fBLX933vtilsQKNP9koD2"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "IGOR",
+      "track": "WHAT'S GOOD",
+      "uri": "spotify:track:6bOkaEXc5CopinGazSLokx"
+    },
+    {
+      "artist": "Ibeyi",
+      "album": "Ash",
+      "track": "Waves",
+      "uri": "spotify:track:5qajd5hoLsZNBwLJUS8hTm"
+    },
+    {
+      "artist": "Travis Scott",
+      "album": "ASTROWORLD",
+      "track": "STARGAZING",
+      "uri": "spotify:track:7wBJfHzpfI3032CSD7CE2m"
+    },
+    {
+      "artist": "Khalid",
+      "album": "American Teen",
+      "track": "Saved",
+      "uri": "spotify:track:248OFOZef6ShXv6DGgbnxU"
+    },
+    {
+      "artist": "Travis Scott",
+      "album": "ASTROWORLD",
+      "track": "R.I.P. SCREW",
+      "uri": "spotify:track:4SZepBIPDRwPaHIjAKwRDb"
+    },
+    {
+      "artist": "Post Malone",
+      "album": "beerbongs & bentleys",
+      "track": "Spoil My Night (feat. Swae Lee)",
+      "uri": "spotify:track:5VuxWXbt7XENQCtE9TzpTv"
+    },
+    {
+      "artist": "Pomme",
+      "album": "À peu près",
+      "track": "Pauline",
+      "uri": "spotify:track:0Z0uXW50seOvvN454dc8c5"
+    },
+    {
+      "artist": "Travis Scott",
+      "album": "Rodeo (Expanded Edition)",
+      "track": "90210 (feat. Kacy Hill)",
+      "uri": "spotify:track:51EC3I1nQXpec4gDk0mQyP"
+    },
+    {
+      "artist": "Khalid",
+      "album": "American Teen",
+      "track": "Therapy",
+      "uri": "spotify:track:25YvGDl2zSE0pH8jrMZ6aY"
+    },
+    {
+      "artist": "Pomme",
+      "album": "À peu près",
+      "track": "On brûlera",
+      "uri": "spotify:track:2pwhy0xxLJjFKFmV7ihzZp"
+    },
+    {
+      "artist": "Zola",
+      "album": "Cicatrices",
+      "track": "Kinshasa",
+      "uri": "spotify:track:1oeDo0y6euRX9DS3rMYcim"
+    },
+    {
+      "artist": "America",
+      "album": "America",
+      "track": "A Horse with No Name",
+      "uri": "spotify:track:54eZmuggBFJbV7k248bTTt"
+    },
+    {
+      "artist": "Big Thief",
+      "album": "U.F.O.F.",
+      "track": "UFOF",
+      "uri": "spotify:track:1DXvEWgI1xoxmKv2Zd3pNE"
+    },
+    {
+      "artist": "Alivor",
+      "album": "VOR LIFE",
+      "track": "Tourbillon",
+      "uri": "spotify:track:6wZ4sPieqJmkz2Grvbk9Hb"
+    },
+    {
+      "artist": "Charles Bradley",
+      "album": "No Time For Dreaming",
+      "track": "Trouble In The Land",
+      "uri": "spotify:track:6l6qC5jTLcsdXt4INLKEA3"
+    },
+    {
+      "artist": "Sia",
+      "album": "LABRINTH, SIA & DIPLO PRESENT... LSD",
+      "track": "Welcome to the Wonderful World of (feat. Sia, Diplo, and Labrinth)",
+      "uri": "spotify:track:2mMQFumTaHcwMZsiNE57Um"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "track": "Something to Believe",
+      "uri": "spotify:track:1VEF5x1WU1P5FWa7iTLR7V"
+    },
+    {
+      "artist": "Khalid",
+      "album": "American Teen",
+      "track": "Cold Blooded",
+      "uri": "spotify:track:34izzOmykADkGT27pUjUvJ"
+    },
+    {
+      "artist": "Lil Peep",
+      "album": "Come Over When You're Sober, Pt. 2",
+      "track": "Falling Down - Bonus Track",
+      "uri": "spotify:track:4jvjzW7Hm0yK4LvvE0Paz9"
+    },
+    {
+      "artist": "Rihanna",
+      "album": "ANTI",
+      "track": "Consideration",
+      "uri": "spotify:track:4pp7VqgssnQtlLJg7LIrkO"
+    },
+    {
+      "artist": "YG",
+      "album": "4REAL 4REAL",
+      "track": "Do Not Disturb (feat. Kamaiyah, G-Eazy)",
+      "uri": "spotify:track:0nCjciaA68cHNBRA1C8GXN"
+    },
+    {
+      "artist": "Jok'air",
+      "album": "Jok'Rambo",
+      "track": "Numéro (feat. Pepside & Zaina)",
+      "uri": "spotify:track:4hTEmGGFf1M6AxUKkwCKSF"
+    },
+    {
+      "artist": "Alphaville",
+      "album": "Forever Young",
+      "track": "Forever Young",
+      "uri": "spotify:track:4S1VYqwfkLit9mKVY3MXoo"
+    },
+    {
+      "artist": "The Insects",
+      "album": "Gone Part 1",
+      "track": "Never Met A Girl Like You Before",
+      "uri": "spotify:track:5w21RqMHKLeo8mkHD0whWU"
+    },
+    {
+      "artist": "Lord Esperanza",
+      "album": "Drapeau Noir",
+      "track": "Comme tous les autres (feat. Shaby)",
+      "uri": "spotify:track:7b57mRWH9DcdUezsmUCgb1"
+    },
+    {
+      "artist": "Janet Jackson",
+      "album": "Janet",
+      "track": "Any Time, Any Place",
+      "uri": "spotify:track:2yOm4lN7aTygtXanJFNFWU"
+    },
+    {
+      "artist": "Vampire Weekend",
+      "album": "Father of the Bride",
+      "track": "Stranger",
+      "uri": "spotify:track:5c2fEICoqVYuTjAGEieB2F"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "IGOR",
+      "track": "GONE, GONE / THANK YOU",
+      "uri": "spotify:track:1hz7SRTGUNAtIQ46qiNv2p"
+    },
+    {
+      "artist": "Fat Freddy's Drop",
+      "album": "Based on a True Story",
+      "track": "Flashback",
+      "uri": "spotify:track:5JSNBytH7OXAelKIfvaS7R"
+    },
+    {
+      "artist": "Big Thief",
+      "album": "U.F.O.F.",
+      "track": "Magic Dealer",
+      "uri": "spotify:track:7uBBhIeNYM1yCthtggfy82"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "CALL ME (Freestyle)",
+      "track": "CALL ME (Freestyle)",
+      "uri": "spotify:track:1awc3w3LUJOK8TwD17bQLZ"
+    },
+    {
+      "artist": "Injury Reserve",
+      "album": "Injury Reserve",
+      "track": "New Hawaii (Feat. DRAM, Tony Velour & Dylan Brady)",
+      "uri": "spotify:track:6iuDHMCdGLgbACiJ8idowL"
+    },
+    {
+      "artist": "Oxmo Puccino",
+      "album": "Le cactus de Sibérie",
+      "track": "Toucher l'horizon - Remasterisé",
+      "uri": "spotify:track:1QZ66nuBGkHgb9WWGcXBte"
+    },
+    {
+      "artist": "Charles Bradley",
+      "album": "No Time For Dreaming",
+      "track": "Lovin' You, Baby",
+      "uri": "spotify:track:6HlPWweQ7Ug4AfJYSnuUZJ"
+    },
+    {
+      "artist": "Superpoze",
+      "album": "For We the Living",
+      "track": "For We the Living",
+      "uri": "spotify:track:4igLY0s4scfwfkAPlwrzpE"
+    },
+    {
+      "artist": "Dennis Lloyd",
+      "album": "Nevermind",
+      "track": "Nevermind",
+      "uri": "spotify:track:63SevszngYpZOwf63o61K4"
+    },
+    {
+      "artist": "Rakim",
+      "album": "The 18th Letter / The Book Of Life",
+      "track": "Guess Who's Back",
+      "uri": "spotify:track:5czjjnbTatyFal33a9h1aN"
+    },
+    {
+      "artist": "Roméo Elvis",
+      "album": "Malade",
+      "track": "Malade",
+      "uri": "spotify:track:0MEriM1ajYAQOZTzLSz7o7"
+    },
+    {
+      "artist": "Alivor",
+      "album": "VOR LIFE",
+      "track": "Volant",
+      "uri": "spotify:track:7MDJdo3lJ8cjiRg8dbt7lQ"
+    },
+    {
+      "artist": "The Underachievers",
+      "album": "Evermore - The Art of Duality",
+      "track": "The Dualist",
+      "uri": "spotify:track:4gMN4ybq54vOrGXOz5Icjr"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "IGOR",
+      "track": "RUNNING OUT OF TIME",
+      "uri": "spotify:track:5QvBXUm5MglLJ3iBfTX2Wo"
+    },
+    {
+      "artist": "Nuttea",
+      "album": "Un Signe Du Temps",
+      "track": "Unité",
+      "uri": "spotify:track:1rFZimYbhVl86i3wMpF5vf"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "track": "So What - Live at Kurhaus, Den Haag, Holland - April 1960",
+      "uri": "spotify:track:1U7yJYYi8yTgRWkwoySwZz"
+    },
+    {
+      "artist": "Khalid",
+      "album": "American Teen",
+      "track": "Keep Me",
+      "uri": "spotify:track:6SWHTMywuTXLFlMQ75cAuu"
+    },
+    {
+      "artist": "Orelsan",
+      "album": "La fête est finie",
+      "track": "Bonne meuf",
+      "uri": "spotify:track:7f0Nl31UzFBI7izAXdfp88"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "&burn (with Vince Staples)",
+      "track": "&burn (with Vince Staples)",
+      "uri": "spotify:track:7uX3gufAoBVqKVoD3dBLLD"
+    },
+    {
+      "artist": "Ibeyi",
+      "album": "Ash",
+      "track": "I Wanna Be Like You",
+      "uri": "spotify:track:4dv9r8oaPtgW7bhEuhFvNr"
+    },
+    {
+      "artist": "Elijah Blake",
+      "album": "Audiology",
+      "track": "Dopeamine",
+      "uri": "spotify:track:2TBfXHy2lknfHtv84o5T00"
+    },
+    {
+      "artist": "Zola",
+      "album": "Cicatrices",
+      "track": "L1 L2",
+      "uri": "spotify:track:7ftimUupzPRi0m8z3WaXvw"
+    },
+    {
+      "artist": "Karen O",
+      "album": "Lux Prima",
+      "track": "Drown",
+      "uri": "spotify:track:6GdesCf6pwGGTWIsa9RWHB"
+    },
+    {
+      "artist": "Georges Brassens",
+      "album": "Georges Brassens N°10",
+      "track": "Les copains d'abord",
+      "uri": "spotify:track:2tsW3Lr6LatRZz7Bbe3CBK"
+    },
+    {
+      "artist": "Charles Bradley",
+      "album": "No Time For Dreaming",
+      "track": "The World (Is Going Up In Flames)",
+      "uri": "spotify:track:4u2KDCwcj8WGcFXDhy1aKL"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "track": "So What - Studio Sequence 1",
+      "uri": "spotify:track:7aYP6U6rAhIzNx1DxDnBxv"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "ODSL",
+      "track": "R2D2 (Acapella)",
+      "uri": "spotify:track:02CWP8YYIfiTC79EHdI81v"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "track": "Titanic Rising",
+      "uri": "spotify:track:2rlc9uWQP3HBfYmFv1WnQd"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "track": "Everyday",
+      "uri": "spotify:track:5bDXDHFVw0dscRDv0Qu1bu"
+    },
+    {
+      "artist": "SCH",
+      "album": "Ça ira",
+      "track": "Ça ira",
+      "uri": "spotify:track:6wLhDCD8J4IZLcWgzUVtne"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "GOD.",
+      "uri": "spotify:track:7ILDKRd8vc3qB749vDvuJd"
+    },
+    {
+      "artist": "A$AP Rocky",
+      "album": "A$AP Forever (feat. Moby)",
+      "track": "A$AP Forever (feat. Moby)",
+      "uri": "spotify:track:1YmF9PvLhIISIANoMLIYGq"
+    },
+    {
+      "artist": "Alivor",
+      "album": "VOR LIFE",
+      "track": "Banc",
+      "uri": "spotify:track:4UGgvSdQM1PMmRvO8H7eZS"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "track": "So What - Studio Sequence 2",
+      "uri": "spotify:track:7BcUaElEzhmBeeIRTN4xdW"
+    },
+    {
+      "artist": "Roméo Elvis",
+      "album": "Morale 2",
+      "track": "J'ai vu",
+      "uri": "spotify:track:1FA2zEZrny0KWchhx8CaHt"
+    },
+    {
+      "artist": "Captaine Roshi",
+      "album": "W.A.R",
+      "track": "Journal de bord",
+      "uri": "spotify:track:7ATSdSIJfgcaIiJz0U7WCT"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Lomepal",
+      "album": "FLIP",
+      "uri": "spotify:album:7LoX9WKWcD5p8FoSvs7HyH"
+    },
+    {
+      "artist": "Khalid",
+      "album": "Free Spirit",
+      "uri": "spotify:album:6KT8x5oqZJl9CcnM66hddo"
+    },
+    {
+      "artist": "Lewis Capaldi",
+      "album": "Divinely Uninspired To A Hellish Extent",
+      "uri": "spotify:album:5658aM19fA3JVwTK6eQX70"
+    },
+    {
+      "artist": "Big Thief",
+      "album": "U.F.O.F.",
+      "uri": "spotify:album:5X0bIKvPtSDo4NpXqgrB6p"
+    },
+    {
+      "artist": "Roméo Elvis",
+      "album": "Malade",
+      "uri": "spotify:album:1eIniQ2guWFsP20TY0Y0FV"
+    },
+    {
+      "artist": "SONBEST",
+      "album": "Sacrifice",
+      "uri": "spotify:album:11MUShccqT4x4Uk68F7r9F"
+    },
+    {
+      "artist": "Miles Davis",
+      "album": "Kind Of Blue (Legacy Edition)",
+      "uri": "spotify:album:4sb0eMpDn3upAFfyi4q2rw"
+    },
+    {
+      "artist": "Charles Bradley",
+      "album": "No Time For Dreaming",
+      "uri": "spotify:album:1voX114Nwj9pSaXJ3xtXgb"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "uri": "spotify:album:53VKICyqCf91sVkTdFrzKX"
+    },
+    {
+      "artist": "Elijah Blake",
+      "album": "Audiology",
+      "uri": "spotify:album:3sXZkf3NfJOkY7sn2yqgEP"
+    },
+    {
+      "artist": "Alivor",
+      "album": "VOR LIFE",
+      "uri": "spotify:album:0R9ud0wlvQ8O7z0j5B0AMD"
+    },
+    {
+      "artist": "Ibeyi",
+      "album": "Ash",
+      "uri": "spotify:album:3AfBuChwSzSSufGjTAafzt"
+    },
+    {
+      "artist": "Ricky Hil",
+      "album": "SYLDD",
+      "uri": "spotify:album:3RqgVEgTIcGgcqhjn1mUPD"
+    },
+    {
+      "artist": "Zola",
+      "album": "Cicatrices",
+      "uri": "spotify:album:7wyEWWnkMq3pMPPx8F1899"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "uri": "spotify:album:7wbJhbCvhPfbK1CLAkpq25"
+    },
+    {
+      "artist": "Shay",
+      "album": "Jolie",
+      "uri": "spotify:album:3RlebXBqJr44vjmVdwSdcO"
+    },
+    {
+      "artist": "Guizmo",
+      "album": "Amicalement Vôtre",
+      "uri": "spotify:album:3L1HGbFwSeTn2wAhaJgyaq"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "IGOR",
+      "uri": "spotify:album:5zi7WsKlIiUXv09tbGLKsE"
+    },
+    {
+      "artist": "Post Malone",
+      "album": "beerbongs & bentleys",
+      "uri": "spotify:album:6trNtQUgC8cgbWcqoMYkOR"
+    },
+    {
+      "artist": "Car Seat Headrest",
+      "album": "Twin Fantasy",
+      "uri": "spotify:album:20U1UWeGcGq7JVW0tf8yfH"
+    },
+    {
+      "artist": "Columbine",
+      "album": "Adieu bientôt",
+      "uri": "spotify:album:476cdol0tegpy3gRZMr9Av"
+    },
+    {
+      "artist": "Dave",
+      "album": "PSYCHODRAMA",
+      "uri": "spotify:album:4GrFuXwRmEBJec22p58fsD"
+    },
+    {
+      "artist": "The Underachievers",
+      "album": "Evermore - The Art of Duality",
+      "uri": "spotify:album:1VY0k5ROlGx6JUQbH87vlC"
+    },
+    {
+      "artist": "SiR",
+      "album": "Hair Down (feat. Kendrick Lamar)",
+      "uri": "spotify:album:5w27XydFTwAPV5GjsWya37"
+    },
+    {
+      "artist": "Karen O",
+      "album": "Lux Prima",
+      "uri": "spotify:album:1kgurOfUl0Qu20MDK46xur"
+    },
+    {
+      "artist": "Sweet Tea",
+      "album": "Light In The Attic 10 Year Anniversary: Wendy Rene \"After Laughter (Comes Tears)\"",
+      "uri": "spotify:album:4dFWN8vJCYb9uM6DGxChtt"
+    },
+    {
+      "artist": "Khalid",
+      "album": "American Teen",
+      "uri": "spotify:album:6kf46HbnYCZzP6rjvQHYzg"
+    },
+    {
+      "artist": "YG",
+      "album": "4REAL 4REAL",
+      "uri": "spotify:album:5zuM1EG06X1J7VsIF1omRm"
+    },
+    {
+      "artist": "Injury Reserve",
+      "album": "Injury Reserve",
+      "uri": "spotify:album:5UWKsRDw3O4BsobmeyRpB9"
+    },
+    {
+      "artist": "Makala",
+      "album": "Radio Suicide",
+      "uri": "spotify:album:7KddTnpP6IfqggZtuxGAkr"
+    },
+    {
+      "artist": "Noel Gallagher's High Flying Birds",
+      "album": "Who Built The Moon?",
+      "uri": "spotify:album:7IlSrhF48LA67L5gHZqlh9"
+    },
+    {
+      "artist": "Lomepal",
+      "album": "ODSL",
+      "uri": "spotify:album:3tst15GGb3Cp6wAh9Hd5Mh"
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "album": "Love & Hate",
+      "uri": "spotify:album:71kreixSBb0aUsk2gx0lcA"
+    },
+    {
+      "artist": "Jacob Banks",
+      "album": "The Boy Who Cried Freedom",
+      "uri": "spotify:album:0M1RX5MurezqJsgKxsqt1G"
+    },
+    {
+      "artist": "half•alive",
+      "album": "Now, Not Yet",
+      "uri": "spotify:album:2KSWrd22LGc0Hmqs2Z5i7z"
+    },
+    {
+      "artist": "Vampire Weekend",
+      "album": "Father of the Bride",
+      "uri": "spotify:album:1A3nVEWRJ8yvlPzawHI1pQ"
+    }
+  ],
+  "shows": [
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+  ],
+  "artists": [
+  ],
+  "bannedArtists": [
+  ],
+  "other": [
+  ]
+}
